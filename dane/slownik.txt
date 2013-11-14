@@ -1,0 +1,3160 @@
+absolutnie,绝对,"jué duì"
+absolwent,毕业生,"bì yè shēng"
+absurd,荒谬的,huāngmiùde
+absurd,可笑的,kěxiàode
+Ada,阿妲,ādá
+Adam,亚当,yàdāng
+administracja,管理,guǎnlǐ
+administracja,经营,jīngyíng
+administracja,行政,xíngzhèng
+admirał,舰队司令,"jiàn duì sī lìng"
+adoptować,收养,shōuyǎng
+adres,地址,dìzhǐ
+Adrian,阿德里安,ādélǐān
+adwokat,律师,lǜshī
+afera,事件,shìjiàn
+Afganistan,阿富汗,āfùhàn
+afisz,海报,hǎibào
+aforyzm,格言,"gé yán"
+Afryka,非洲,Fēizhōu
+Afryka,阿非利加洲,āfēilìjiāzhōu
+Agata,阿佳塔,ājiātǎ
+agencja,机构,jīgòu
+Agnieszka,阿格尼丝,āgénísī
+aikido,合气道,"hé qì dào"
+akademia,学院,"xué yuàn"
+akcent,音调,"yīn diào"
+akcent,口音,"kǒu yīn"
+akceptować,接受,jiēshòu
+akcja,股票,"gǔ piào"
+akordeon,手风琴,"shǒu fēng qín"
+akordeon,手风琴,"shǒu fēng qín"
+akrobata,杂技演员,"zá jì yǎn yuán"
+akrobatyka,杂技,"zá jì"
+aksamit,丝绒,sīróng
+aktor,男演员,"nán yǎnyuán"
+aktorka,女演员,"nǚ yǎnyuán"
+akupunktura,针灸,"zhēn jiǔ"
+akwarium,鱼缸,yúgāng
+alarm,惊惶,jīnghuāng
+Alaska,阿拉斯加,ālāsījiā
+Albania,阿尔巴尼亚,āěrbāníyà
+albo,或者,"huò zhě"
+album,相片册,xiàngpiàncè
+album,集邮册,jíyóucè
+ale,但,dàn
+ale,但是,dànshì
+ale,可是,kěshì
+ale,不过,búguò
+aleja,林荫道,línyīndào
+alejka,小路,xiǎolù
+Aleksander,亚历山大,yàlìshāndà
+Aleksandra,亚历山德拉,"yà lì shān dé lā"
+alergia,过敏,guòmĭn
+alfabet,字母表,"zì mǔ biǎo"
+Algieria,阿尔及利亚,āěrjílìyà
+Alicja,艾丽夏,àilìxià
+aligator,鳄鱼,"è yú"
+alkohol,酒,jiǔ
+Alpy,阿尔卑斯山,"ā ér bēi sī shān"
+aluminium,铝,lǚ
+ambasada,大使馆,"dà shǐ guǎn"
+ambicja,雄心,"xióng xīn"
+ambulans,救护车,"jiù hù chē"
+Amelia,阿美莉亚,"ā měi lì yà"
+Ameryka,美洲,"měi zhōu"
+Ameryka,美国,"měi guó"
+"Ameryka Północna",北美洲,"běi měi zhōu"
+"Ameryka Południowa",南美洲,"nán měi zhōu"
+amnestia,大赦,dàshè
+amunicja,弹药,"dàn yào"
+anakonda,水蟒,"shuǐ mǎng"
+analfabeta,文盲,"wén máng"
+ananas,菠萝,bōluó
+Andrzej,安德鲁,āndélǔ
+Aneta,阿娜宜塔,ānàyítǎ
+Angelika,安杰莉卡,ānjiélìkǎ
+angielski,英国的,"yīng guó de"
+angielski,英语,"yīng yǔ"
+Anglia,英国,Yīngguó
+Anglik,英国人,yīngguórén
+Angola,安哥拉,āngēlā
+anioł,天使,"tiān shǐ"
+Anna,安娜,ānnà
+anonimowy,匿名的,"nì míng de"
+Antarktyda,南极洲,"nán jí zhōu"
+antena,天线,"tiān xiàn"
+antybiotyk,抗生素,kàngshēngsù
+antyczny,古代的,gǔdàide
+antyk,古代,gǔdài
+antyk,古玩,gǔwán
+antyk,古董,gǔdǒng
+antykoncepcja,避孕,"bì yùn"
+aparat,装置,"zhuāng zhì"
+aparat,照相机,"zhào xiàng jī"
+"aparat fotograficzny",照相机,zhàoxiàngjī
+apartament,套房,tàofáng
+apetyt,胃口,"wèi kǒu"
+apteka,药店,yàodiàn
+apteka,药房,yàofáng
+Arab,阿拉伯,ālābó
+arbuz,西瓜,xīgua
+archeolog,考古学家,"kǎo gǔ xué jiā"
+architekt,建筑师,"jiàn zhù shī"
+architekt,建筑师,"jiàn zhù shī"
+architekt,设计师,"shè jì shī"
+architekt,设计师,"shè jì shī"
+arcydzieło,杰作,"jié zuò"
+aresztować,拘捕,"jū bǔ"
+Argentyna,阿根廷,āgēntíng
+aria,咏叹调,yǒngtàndiào
+Arizona,亚利桑那,yàlìsāngnà
+Arkansas,阿肯色,ākěnsè
+Armenia,亚美尼亚,yàwěiníyà
+armia,军队,"jūn duì"
+arogancja,傲慢,"ào màn"
+Artur,阿尔图尔,āěrtúěr
+artykuł,文章,wénzhāng
+artyleria,炮兵,"pào bīng"
+artysta,艺术家,"yì shù jiā"
+asfalt,沥青,"lì qīng"
+aspiryna,阿司匹林,āsīpǐlín
+atak,攻击,"gōng jī"
+atakować,攻击,"gōng jī"
+atmosfera,气氛,qìfèn
+atmosfera,空气,kōngqì
+atom,原子,"yuán zǐ"
+atrakcyjny,有吸引力的,"yǒu xīyǐnlì de"
+atrakcyjny,讨人喜欢的,"tǎo rén xǐhuān de"
+Audi,奥迪,"ào dí"
+aukcja,拍卖,"pāi mài"
+aureola,光环,"guāng huán"
+Australia,澳大利亚,aòdàlìyà
+Austria,奥地利,aòdìlì
+autentyczny,真实的,"zhēnshí de"
+autentyczny,可靠的,"kěkào de"
+auto,汽车,qìchē
+autobus,公共汽车,gōnggòngqìchē
+autograf,亲笔签名,"qīn bǐ qiān míng"
+autor,作者,"zuò zhě"
+autostrada,高速公路,"gāo sù gōng lù"
+azalia,杜鹃花,dùjuānhuā
+Azerbejdżan,阿塞拜疆,āsàibàijiāng
+Azja,亚洲,Yázhōu
+baba,头脑简单的老女人,"tóunǎo jiǎndān de lǎ"
+babcia,祖母,zǔmǔ
+babcia,奶奶,nǎinai
+babcia,外婆,wàipó
+babcia,姥姥,lǎolao
+badacz,研究人员,"yán jiū rén yuán"
+badać,调查,diàochá
+badać,检查,jiǎnchá
+badać,考查,kǎochá
+Bahamy,巴哈马,bāhāmǎ
+Bahrajn,巴林,bālín
+bajka,动画片,"dòng huà piān"
+bajka,童话,"tóng huà"
+bakteria,细菌,"xì jūn"
+bakłażan,茄子,"qié zi"
+bal,舞会,"wǔ huì"
+balans,平衡,"píng héng"
+balet,芭蕾,bāléi
+balkon,阳台,yángtái
+balkon,(剧院)楼厅,(jùyuàn)lóutīng
+bambus,竹子,zhúzi
+banan,香蕉,Xiāngjiāo
+bank,银行,yínháng
+banknot,纸币,"zhǐ bì"
+bankomat,取款机,qǔkuǎnjī
+bar,酒吧,"jiǔ bā"
+Baran,牡羊座,mǔyángzuò
+baranina,羊肉,yángròu
+Barbara,巴巴拉,bābālā
+bardzo,很,hěn
+bardzo,非常,fēicháng
+bardzo,十分,shífēn
+bark,肩,jiān
+barok,巴洛克,bāluòkè
+barokowy,巴洛克风格的,"bāluòkè fēnggé de"
+Bartosz,巴尔托士,bāěrtuōshì
+barwa,染色,"rǎn sè"
+basen,游泳池,"yóuyǒng chí"
+bat,鞭,biān
+bateria,电池,diànchí
+"bateria słoneczna",太阳能电池,"tài yáng néng diàn chí"
+bawełna,棉花,miánhua
+bawełna,棉,mián
+bawół,水牛,"shuǐ niú"
+bazar,市集,"shì jí"
+"bać się",害怕,"hài pà"
+"bać się",恐怕,"kǒng pà"
+baśń,寓言,"yù yán"
+bałagan,脏乱,"zāng luàn"
+Bałtyk,波罗的海,"bō luō dì hǎi"
+bażant,雉,zhì
+Beata,贝塔,bèitǎ
+benzyna,汽油,qìyóu
+bestia,畜牲,"xù shēng"
+bestseller,畅销,chàngxiāo
+beton,混凝土,"hùn níng tǔ"
+bezpieczeństwo,安全,"ān quán"
+bezpiecznie,安全,ānquán
+beżowy,灰棕色,huīzōngsè
+białaczka,白血病,báixuèbìng
+Białoruś,白俄罗斯,báiéluósí
+biały,白色,báisè
+Biblia,圣经,"shèng jīng"
+biblioteczka,书橱,shūchú
+biblioteczka,书架,shūjià
+biblioteka,图书馆,"tú shū guǎn"
+biec,跑,pǎo
+bieda,不幸,"bù xìng"
+biedny,贫穷,pínqióng
+biedny,贫困,pínkùn
+biedronka,瓢虫,piáochóng
+biegać,跑步,pǎobù
+biegunka,拉肚子,"lā dùzi"
+biegłość,熟,shú
+biegły,熟练,"shú liàn"
+bielizna,内衣,nèiyī
+bilet,票,piào
+biodra,胯部,kuàbù
+biologia,生物学,shēngwùxué
+biologia,生态学,shēngtàixué
+biurko,办公桌,bàngōngzhuō
+biurko,写字台,xiězìtái
+biuro,办公室,bàngōngshì
+"biuro turystyczne",旅游服务处,"lǚ yóu fú wù chǔ"
+biurowiec,办公楼,bàngōnglóu
+biustonosz,乳罩,rǔzhào
+biznes,商业,"shāng yè"
+bić,打,dǎ
+biżuteria,珠宝,"zhū bǎo"
+blask,光辉,"guāng huī"
+bliski,近,jìn
+blisko,在近处,"zài jìnchù"
+bliźniaki,双胞胎,"shuāng bāo tāi"
+Bliźnięta,双子座,shuāngzǐzuò
+blog,博客,"bó kè"
+blokować,阻碍,zǔ'ài
+blokować,取消,qǔxiāo
+blokować,注销,zhùxiāo
+blokować,作废,zuòfèi
+bluza,毛衣,"máo yī"
+bluzka,女短外衣,"nǚ duǎn wàiyī"
+bocian,鹳,guàn
+boczek,五花熏肉,"wǔ huā xūn ròu"
+bóg,上帝,shàngdì
+bogactwo,财富,"cái fù"
+bogaty,富裕,fùyù
+bohater,英雄,"yīng xióng"
+boks,拳击,"quán jī"
+bokser,拳击手,"quán jī shǒu"
+ból,痛苦,tòngkǔ
+boleć,疼,téng
+boleć,痛,tòng
+bomba,炸弹,zhàdàn
+borsuk,獾,huān
+"Boże Narodzenie",圣诞节,shèngdànjié
+brak,缺乏,"quē fá"
+brama,大门,"dà mén"
+bramkarz,守门员,shǒuményuán
+bransoletka,手镯,shŏuzhuō
+brat,兄弟,"xiōng dì"
+brat,哥哥,"gē ge"
+brat,弟弟,"dì di"
+braterstwo,兄第关系,"xiōng dì guān xì"
+braterstwo,兄弟情谊,"xiōng dì qíng yì"
+Brazylia,巴西,bāxī
+brać,拿,ná
+brać,取,qǔ
+broda,胡须,húxū
+broda,下巴,xiàbā
+brokuł,西兰花,xīlánhuā
+broń,武器,wǔqì
+"broń biologiczna",生物武器,shēngwùwǔqì
+bronić,防卫,"fáng wèi"
+"bronić się",防卫,"fáng wèi"
+broszka,胸针,xiōngzhēn
+"Bruce Lee",李小龙,"lǐ xiǎo lóng"
+brudny,脏,zāng
+brydż,桥牌,qiáopái
+brzeg,岸,àn
+brzmieć,听起来,"tīng qǐlái"
+brzmieć,用声音发出,"yòng shēngyīn fā chū"
+brzoskwinia,桃子,táozi
+brzoza,白桦,báihuá
+brzuch,肚子,dùzi
+brzydki,丑,chǒu
+brzydki,难看,nánkàn
+brąz,青铜,"qīng tóng"
+brązowy,褐色,hèsè
+brązowy,棕色,zōngsè
+brązowy,咖啡色,"kā fēi sè"
+bubel,废品,fèipĭn
+Budda,佛,fó
+buddyzm,佛教,fójiào
+"budka telefoniczna",电话间,diànhuàjiān
+budyń,布丁,"bù dīng"
+budynek,楼,lóu
+budynek,建筑物,jiànzhùwù
+budzik,闹钟,"nào zhōng"
+"budzić się",起床,"qǐ chuáng"
+bunt,兵变,"bīng biàn"
+bursztyn,琥珀,"hǔ pò"
+bursztynowy,琥珀的,"hǔ pò de"
+burza,暴风雨,bàofēngyǔ
+burza,雷阵雨,léizhènyǔ
+burzyć,毁,huǐ
+but,鞋,xié
+butelka,瓶子,píngzi
+buziak,吻,wěn
+bułka,小面包,"xiǎo miàn bāo"
+byk,公牛,gōngniú
+Byk,金牛座,jīnniúzuò
+być,是,shì
+bzdurny,荒谬,"huāng miù"
+błyskawica,闪电,"shǎn diàn"
+błąd,错误,cuòwù
+błąd,过失,guòshī
+bąk,大峰,dàfēng
+cal,英寸,"yīng cùn"
+całka,积分,"jī fēn"
+całować,吻,wěn
+całus,吻,wěn
+cały,全部,quánbù
+cały,所有,suǒyǒu
+cały,整个,zhěnggè
+cebula,洋葱,"yáng cōng"
+cegła,砖,zhuān
+cena,价格,"jià gé"
+centrum,中心,"zhōng xīn"
+cera,肤色,"fū sè"
+ceramika,制陶术,"zhì táo shu"
+cesarstwo,帝国,"dì guó"
+cesarz,皇帝,huángdì
+chaos,混乱,"hùn luàn"
+chcieć,想要,xiǎngyào
+chcieć,要,yào
+chciwy,贪婪,tānlán
+chemia,化学,huàxué
+chętnie,乐意地,lèyìde
+chętnie,心甘情愿地,"xīngānqíngyuàn de"
+chęć,意愿,"yì yuàn"
+Chińczyk,中国人,Zhōnggúorén
+chiński,中国的,zhōnggúode
+Chiny,中国,Zhōngguó
+chirurg,外科医生,"wàikē yīshēng"
+chleb,面包,miànbāo
+chlew,猪圈,"zhū juàn"
+chmura,云,yún
+chodnik,人行道,rénxíngdào
+chodzić,走路去,"zǒu lù qù"
+cholera,霍乱,"huò luàn"
+chomik,仓鼠,cāngshǔ
+Chopin,肖邦,"xiāo bāng"
+chór,唱诗班,chàngshībān
+chór,合唱队,héchàngduì
+choreograf,舞蹈设计者,"wǔdǎo shèjì zhě"
+choreografia,舞蹈设计,"wǔdǎo shèjì"
+choroba,病,bìng
+Chorwacja,克罗地亚,"kè luō dì yà"
+chory,病,bìng
+chryzantema,菊花,júhuā
+chrzest,洗礼,"xǐ lǐ"
+chrząszcz,甲虫,"jiǎ chóng"
+chudy,瘦,shòu
+chwała,光荣,"guāng róng"
+chwila,片刻,"piàn kè"
+chwileczkę,一会儿,yíhuìr
+chwytać,抓,zhuā
+chyba,也许,yěxǔ
+chyba,可能,kěnéng
+chytry,狡猾,"jiǎo huá"
+chłopak,男孩儿,nánháir
+chłopak,男朋友,"nán péngyou"
+chłopiec,男孩儿,nánháir
+ciasny,紧的,jǐnde
+ciastka,饼干,bǐnggān
+ciastko,小蛋糕,"xiǎo dàngāo"
+ciastko,小片蛋糕,"xiǎo piàn dàngāo"
+ciasto,蛋糕,dàngāo
+ciało,身体,shēntǐ
+cichy,安静,"ān jìng"
+ciekawość,好奇,hàoqí
+ciekawość,好奇心,hàoqíxīn
+ciekawy,有意思,yǒuyìsi
+ciekawy,有趣,yǒuqù
+cielęcina,小牛肉,"xiǎo niúròu"
+ciemnozielony,深绿色,"shēn lǜsè"
+ciemność,黑暗,"hēi àn"
+ciemny,暗的,ànde
+cień,影子,"yǐng zi"
+ciepło,暖和,nuǎnhuo
+cierpienie,受难,"shòu nàn"
+cierpieć,遭受,"zāo shòu"
+cierpliwość,耐心,"nài xīn"
+"cieszyć sie",享受,"xiǎng shòu"
+ciężar,负荷,"fù hè"
+ciężki,重的,zhòngde
+ciocia,阿姨,āyí
+ciocia,阿姨,āyí
+ciocia,姑姑,gūgu
+ciocia,姑妈,gūmā
+ciocia,姑母,gūmǔ
+cis,紫杉,zĭshān
+cisza,安静,ānjìng
+ciągle,还,hái
+ciągnik,拖拉机,"tuō lā jī"
+ciągnąć,拉,lā
+ciąć,剪,jiǎn
+ciąża,怀孕,huáiyùn
+cmentarz,墓地,mùdì
+co,什么,shénme
+"Coca Cola",可口可乐,"kě kǒu kě lè"
+codziennie,每天,měitiān
+córka,女儿,nǚér
+coś,某物,"mǒu wù"
+coś,某事,"mǒu shì"
+cud,奇迹,"qí jì"
+cudowny,极好的,jíhǎode
+cudowny,奇妙的,qímiàode
+cudowny,惊人的,jīngrénde
+cudzoziemiec,外国人,wàiguórén
+cudzoziemiec,外国男人,"wàiguó nánrén"
+cudzoziemka,外国女人,"wàiguó nǚrén"
+cukier,糖,táng
+cukierek,糖果,"táng guǒ"
+cukinia,角瓜,jiǎoguā
+cyfra,数字,shùzì
+cykada,蝉,chán
+cyklon,飓风,"jù fēng"
+cynk,锌,xīn
+Cyryl,西里尔,xīlǐěr
+cytryna,柠檬,níngméng
+czajnik,水壶,"shuǐ hú"
+czapka,帽子,màozi
+czarny,黑色,hēisè
+czarodziej,魔术师,"mó shù shī"
+czarownica,女巫,"nǚ wū"
+czas,时间,shíjiān
+czasami,有时候,yǒushíhou
+czasopismo,杂志,zázhì
+czaszka,头盖骨,"tóu gài gŭ"
+czcionka,字体,"zì tǐ"
+czcić,礼拜,"lǐ bài"
+Czechy,捷克,jiékè
+czekać,等,děng
+czekać,等待,děngdài
+czekolada,巧克力,qiǎokèlì
+"czemu nie",为什么不,"wèishénme bù"
+czereśnia,樱桃,yīngtao
+czerwiec,六月,liùyuè
+"czerwienić się",脸红,liǎnhóng
+czerwony,红色,hóngsè
+często,经常,jīngcháng
+często,常常,chángcháng
+często,常,cháng
+cześć,你好,"nǐ hǎo"
+cześć,再见,"zài jiàn"
+czopki,肛剂,gāngjì
+czosnek,大蒜,dàsuàn
+czołg,坦克,tǎnkè
+czoło,前额,"qián é"
+cztery,四,sì
+czubek,顶,dǐng
+czuć,触摸,chùmō
+czuć,觉得,juéde
+czuć,感觉,gǎnjué
+czuć,感知,gǎnzhī
+czuć,认为,rènwéi
+czuły,温和,wēnhé
+czuły,亲切,qīnqiè
+czuły,脆弱,cuìruò
+czuły,易损坏,yìsǔnhuài
+czuły,嫩,nèn
+czwartek,星期四,xīngqīsì
+czy,吗,ma
+czyj,谁的,shuíde
+czynny,营业,yíngyè
+czysty,干净,gānjìng
+czytać,念,niàn
+czytać,读,dú
+czytać,看,kàn
+czyżyk,金翅雀,"jīn chì què"
+człowiek,人,rén
+dach,屋顶,wūdǐng
+dachówka,瓦片,wǎpiàn
+daleki,远,yuǎn
+Damian,达米安,dámǐān
+Dania,丹麦,"dān mài"
+danie,菜,cài
+Daniel,丹尼尔,dānníer
+Danuta,丹努塔,dānnǔtǎ
+dar,礼物,"lǐ wù"
+dar,天赋,"tiān fù"
+Darek,达里克,"dá lǐ ke"
+data,日期,"rì qī"
+dawać,给,gěi
+Dawid,大卫,dàwèi
+dać,给,gěi
+decydować,决定,"jué dìng"
+decyzja,决定,"jué dìng"
+Dekalog,十诫,"shí jiè"
+dekoracja,装饰品,zhuāngshìpǐn
+dekorować,装饰,zhuāngshì
+delfin,海豚,hǎitún
+demon,魔鬼,"è mó"
+deptać,踏,tà
+deska,长木板,chángmùbǎn
+deskorolka,滑板,huábǎn
+deszcz,雨,yǔ
+detektyw,侦探,zhēntàn
+dezodorant,除臭剂,chúchòujì
+diabeł,魔王,mówáng
+diament,钻石,"zuàn shí"
+Diana,迪安娜,díānnà
+dinozaur,恐龙,kǒnglóng
+dla,给,gěi
+dlaczego,为什么,"wèi shén me"
+do,到,dào
+"do użytku wewnętrznego",内服,nèifú
+"do użytku zewnętrznego",外用,wàiyòng
+"do widzenia",再见,zàijiàn
+dobranoc,晚安,wǎnān
+dobrobyt,福利,"fú lì"
+dobry,好,hǎo
+"dobry wieczór",晚上好,wǎnshanghǎo
+dodatki,附件,"fù jiàn"
+dodać,加,jiā
+doktor,医生,"yī shēng"
+doktor,博士,"bó shì"
+dokument,文件,wénjiàn
+dolar,美元,"měi yuán"
+dom,家,jiā
+"dom mieszkalny",住房,zhùfáng
+Dominik,多米尼克,duōmǐníke
+Dominika,多米妮卡,duōmǐníkǎ
+domino,多米诺骨牌,duōmǐnuògǔpái
+doniczka,花盆,"huā pén"
+dorosłość,成年,"chéng nián"
+Dorota,朵罗塔,duòluótǎ
+dorsz,鳕鱼,xuěyú
+dotykać,碰,pèng
+doustnie,口服,kŏufú
+dowcip,玩笑,wánxiào
+dowcip,笑话,xiàohuà
+dół,坑,kēng
+drabina,梯子,tīzi
+drapać,抓,zhuā
+drapieżnik,食肉动物,"shí ròu dòng wù"
+dreszcze,发抖,fādòu
+drętwienie,麻木,mámù
+drewno,木头,"mù tou"
+drób,家禽肉,jiāqínròu
+droga,路,lù
+drogi,贵,guì
+drukarka,印刷机,"yìn shuā jī"
+drukować,打印,"dǎ yìn"
+drut,金属丝,"jīn shǔ sī"
+drużyna,队,duì
+drzewo,树,shù
+drzwi,门,mén
+duch,鬼魂,guǐhún
+duma,自傲,"zì ào"
+dumny,自豪的,"zì háo de"
+dusza,灵魂,línghún
+dużo,多,duō
+duży,大,dà
+dwa,二,èr
+dwór,宫廷,"gōng tíng"
+dwór,外面,"wài miàn"
+dworzec,车站,"chē zhàn"
+"dworzec autobusowy",公共汽车站,"gōng gòng qì chē zhàn"
+"dworzec kolejowy",火车站,"huǒ chē zhàn"
+dym,烟,yān
+dynia,南瓜,nánguā
+dyrdymały,胡说八道,húshuōbādào
+dyrektor,经理,jīnglǐ
+dysk,圆盘,"yuán pán"
+dysk,磁盘,"cí pán"
+dyskoteka,迪斯科舞厅,"dí sī kē wǔ tīng"
+dystans,距离,"jù lí"
+dystrybutor,经销商,"jīng xiāo shāng"
+dywan,地毯,"dì tǎn"
+dziadek,祖父,zǔfù
+dziadek,爷爷,yéye
+dziadek,外公,wàigōng
+dziadek,姥爷,lǎoyé
+dziadkowie,祖父母,zǔfùmǔ
+dzięcioł,啄木鸟,zhuómùniăo
+dziecko,小孩儿,xiǎoháir
+dziecko,孩子,háizi
+dziecko,儿童,értóng
+dziedziniec,院子,yuànzi
+dzięki,谢谢,xièxie
+dziękować,谢谢,xièxie
+dziękować,感谢,gǎnxiè
+dziękuję,谢谢,xièxie
+dzień,天,tiān
+"dzień dobry",你好,nǐhǎo
+dziennik,日志,"rì zhì"
+dziennik,日报,"rì bào"
+dziennikarz,记者,jìzhě
+dziesięć,十,shí
+"Dziesięć Przykazań",十诫,"shí jiè"
+"dziesięć tysięcy",万,wàn
+dziewczyna,女孩子,nǚháizi
+dziewczyna,女朋友,nǚpéngyou
+dziewięć,九,jiǔ
+dzik,野猪,"yě zhū"
+dziki,野生的,"yě shēng de"
+dziób,喙,huì
+dzisiaj,今天,"jīn tiān"
+dziura,洞,dòng
+dziwny,奇怪的,"qí guài de"
+dziś,今天,"jīn tiān"
+dziąsła,牙床,yáchuáng
+dzwonek,铃,líng
+dzwonić,打电话,"dǎ diàn huà"
+dzwonić,打电话,"dǎ diàn huà"
+dźwięk,声音,"shēng yīn"
+"dźwig budowlany",起重机,qǐzhòngjī
+dłoń,手掌,shǒuzhǎng
+długi,长,cháng
+długopis,水笔,"shuǐ bǐ"
+długopis,圆珠笔,"yuán zhū bǐ"
+długość,长度,"cháng dù"
+dżem,果酱,gǔojiàng
+dżinsy,牛仔裤,niúzǎikù
+e-mail,电子邮件,"diàn zi yóu jiàn"
+edukacja,教育,"jiào yù"
+Edward,爱德华,àidéhuá
+efekt,结果,jiéguǒ
+Egipt,埃及,aījí
+egzamin,考试,"kǎo shì"
+ekonomia,经济,jīngjì
+ekran,银幕,"yín mù"
+eksperyment,试验,"shì yàn"
+eksport,出口,"chū kǒu"
+ekstazy,摇头丸,"yáo tóu wán"
+elektron,电子,"diàn zǐ"
+elektrownia,发电站,"fā diàn zhàn"
+elektryk,电工,"diàn gōng"
+Elżbieta,伊丽莎白,yīlìshābái
+email,电子邮件,"diàn zi yóu jiàn"
+Emilia,爱米莉亚,"ài mǐ lì yà"
+encyklopedia,百科全书,"bǎi kē quán shū"
+energia,活力,huólì
+"energia słoneczna",太阳能,"tài yáng néng"
+esencja,本质,běnzhì
+eukaliptus,桉树,"ān shù"
+Europa,欧洲,ōuzhōu
+Ewa,爱娃,àiwá
+fabryka,工厂,"gōng chǎng"
+fajka,烟斗,"yān dǒu"
+fala,波,bō
+fantazja,幻想,"huàn xiǎng"
+farba,油漆,"yóu qī"
+farma,农场,"nóng chǎng"
+fasola,豆,dòu
+fauna,动物群,"dòng wù qún"
+Faust,浮士德,"fú shì dé"
+fax,传真,"chuán zhēn"
+feniks,凤凰,fènghuáng
+festyn,节日,jiérì
+Filip,菲利普,fēilìpǔ
+Filipiny,菲律宾,"fēi lǜ bīn"
+film,电影,diànyǐng
+Finlandia,芬兰,"fēn lán"
+fioletowy,紫色,zǐsè
+fiołek,紫罗兰,zǐluólán
+firma,公司,gōngsī
+fizyka,物理,wùlǐ
+flaga,国旗,guóqí
+flaming,火烈鸟,huŏlièniăo
+flara,闪光,"shǎn guāng"
+flet,长笛,"cháng dí"
+flora,植物,"zhí wù"
+flota,船队,"chuán duì"
+foka,海豹,hăibào
+folia,锡纸,"xī zhǐ"
+fontanna,喷泉,"quán shuǐ"
+forma,形式,"xíng shì"
+forteca,要塞,"yào sài"
+fortepian,钢琴,gāngqín
+fortuna,财产,"cái chǎn"
+fortuna,命运,"mìng yùn"
+fotel,扶手椅,"fú shǒu yi"
+fotografia,照片,zhàopiàn
+foton,光子,"guāng zǐ"
+Francja,法国,fǎguó
+Franek,法拉尼克,fǎlāníke
+Frankfurt,法兰克福,"fǎ lán kè fú"
+frotte,毛巾不,máojīnbù
+fryzjer,理发店,lǐfàdiǎn
+furgonetka,货车,"huò chē"
+furia,愤怒,"fèn nù"
+futro,毛皮,"máo pí"
+głowa,头,tóu
+gotówka,现金,"xiàn jīn"
+gotowy,准备好的,"zhǔnbèi hǎo de"
+gość,客人,kèrén
+goździk,康乃馨,kāngnăixīn
+goły,裸体的,"luǒ tǐ de"
+gołąb,鸽子,gēzi
+gra,游戏,yóuxì
+gracz,比赛者,"bǐ sài zhe"
+grad,冰雹,"bīng báo"
+grafik,美术设计员,měishùshèjìyuán
+grafika,制图法,"zhì tú fǎ"
+gram,克,kè
+granatowy,深蓝色,"shēn lán sè"
+granica,边缘,"biān yuán"
+gratulacje,祝贺,"zhù hè"
+gratulować,恭喜,gōngxǐ
+gratulować,祝贺,zhùhè
+Grecja,希腊,xīlà
+Grenlandia,格陵兰,"gé líng lán"
+groch,豌豆,"wān dòu"
+grom,雷电,"léi diàn"
+gromadzić,积累,"jī lěi"
+grota,山洞,"shān dòng"
+groźny,危险的,"wēi xiǎn de"
+gruby,胖,pàng
+grudzień,十二月,shí'èryuè
+grupa,班,bān
+gruszka,梨,lí
+grypa,流行性感冒,"liú xíng xìng gǎn mào"
+grzech,罪孽,"zuì niè"
+grzejnik,暖气,nuǎnqì
+grzmot,雷电,"léi diàn"
+grzyb,蘑菇,"mó gu"
+grzyb,真菌,"zhēn jūn"
+guma,橡皮,"xiàng pí"
+guma,橡胶,"xiàng jiāo"
+"guma do żucia",口香糖,"kǒu xiāng táng"
+gumowiec,雨鞋,"yǔ xié"
+guz,肿块,"zhǒng kuài"
+guzik,钮扣,niǔkòu
+gwarancja,保证书,băozhèngshū
+gwiazda,星,xīng
+gwint,线,xiàn
+gwóźdź,钉,dīng
+gładki,平滑的,pínghuáde
+głaskać,抚摸,"fǔ mō"
+głębia,深度,shēndù
+głęboki,深的,shēnde
+głębokość,深度,"shēn dù"
+głód,饥饿,"jī è"
+głodny,饿的,"è de"
+głos,声音,"shēng yīn"
+głowa,头,tóu
+głośnik,扬声器,"yáng shēng qì"
+głuchy,聋,lóng
+głupi,笨的,"bèn de"
+gąsienica,毛虫,máochóng
+gżegżółka,杜鹃,"dù juān"
+"hala sportowa",运动室,"yùn dòng shì"
+halo,喂,wèi
+hamować,闸,zhá
+hamulce,车闸,chēzhá
+handel,贸易,màoyì
+harmonia,协调,"xié tiáo"
+harmonia,手风琴,"shǒu fēng qín"
+"Harry Potter",哈利波特,"hā lì bō tè"
+hasło,密码,"mì mǎ"
+hałas,响声,"xiǎng sheng"
+helikopter,直升机,"zhí shēng jī"
+Henryk,亨利克,hēnglìke
+herbata,茶,chá
+heros,英雄,"yīng xióng"
+hełm,头盔,"tóu kuī"
+hibiskus,芙蓉,fúróng
+hiena,土狼,"tǔ láng"
+Himalaje,喜马拉雅山脉,"xǐ mǎ lā yǎ shān mài"
+hinduizm,印度教,yìndùjiào
+hipis,嬉皮士,"xī pí shì"
+hipnoza,催眠,"cuī mián"
+hipopotam,河马,"hé mǎ"
+historia,历史,lìshǐ
+historia,故事,gùshì
+Hiszpania,西班牙,xībānyá
+hobby,爱好,àihào
+Holandia,荷兰,"hél án"
+Holender,荷兰人,"hél án rén"
+Honda,本田汽车,"běn tián qì chē"
+"Hong Kong",香港,"xiāng gǎng"
+Hongkong,香港,"xiāng gǎng"
+honor,荣誉,róngyù
+honor,荣誉,"róng yù"
+Honorata,赫诺拉塔,"hè nuò lā tǎ"
+horoskop,占星,"zhān xīng"
+horyzont,地平线,"dì píng xiàn"
+hotel,饭店,fàndiàn
+Hubert,胡伯特,húbótè
+humor,幽默,"yōu mò"
+huragan,飓风,"jù fēng"
+hurtownia,仓库,"cāng kù"
+husaria,轻骑兵,"qīng qí bīng"
+hydraulik,水管工人,"shuǐ guǎn gōng rén"
+i,和,hé
+Idaho,爱达荷,àidáhé
+Ignacy,以格纳策,yǐgénàcè
+Igor,易郭,"yì guō"
+igrzyska,奥运会,"aò yùn hùi"
+"Igrzyska Olimpijskie",奥林匹克运动会,"ào lín pǐ kè yùn dòng huì"
+igła,针,zhēn
+ile,多少,"duō shǎo"
+Ilona,宜罗娜,yíluónà
+ilość,数量,"shù liàng"
+imbir,生姜,shēngjiāng
+imię,名字,míngzi
+import,进口,"jìn kǒu"
+impreza,聚会,"jù huì"
+indukcja,感应,"gǎn yìng"
+informacja,信息,"xìn xī"
+informatyka,电脑课,"diàn nǎo kè"
+informować,通知,"tōng zhī"
+instytut,学院,xuéyuàn
+inteligencja,智力,"zhì lì"
+inteligentny,聪明的,"cōng ming de"
+internet,因特网,"yīn tè wǎng"
+Iowa,衣阿华,yī`ēhuá
+ironizować,讽刺,fěngcì
+irys,蝴蝶华,húdiéhuā
+iskra,火花,"huǒ huā"
+islam,伊斯兰教,yīsīlánjiào
+Istambuł,伊斯坦布尔,"yī sī tǎn bù ér"
+istnieć,存在,"cún zài"
+istotny,重要的,"zhòng yào de"
+Iwona,伊宛娜,yīwǎnnà
+Izabela,伊莎贝尔,yīshābèier
+iść,走,zǒu
+ja,我,wǒ
+jabłko,苹果,píngguǒ
+Jacek,亚泽克,yàzékè
+jacht,小帆船,xiăofānchuán
+jagoda,浆果,"jiāng guǒ"
+jajko,蛋,dàn
+"jajko kurze",鸡蛋,jīdàn
+jajniki,卵巢,luăncháo
+jak,怎么,"zěn me"
+jakość,品质,"pǐn zhì"
+Jakub,雅古布,yǎgǔbù
+jamnik,腊肠犬,"là cháng quǎn"
+Jan,杨,yáng
+Janusz,亚努士,"yà nǔ shì"
+Japonia,日本,rìběn
+Jarosław,亚洛斯瓦夫,yàluòsīwǎfū
+jaskinia,山洞,"shān dòng"
+jaskółka,燕子,yànzi
+jasny,明亮的,"míng liàng de"
+jaspis,碧玉,"bì yù"
+jastrząb,苍鹰,"cāng yīng"
+jaszczurka,蜥蜴,"xī yì"
+jaśmin,茉莉花,mòlìhuā
+jechać,去,qù
+jeden,一,yī
+jednostka,单位,"dān wèi"
+jedność,一致,"yī zhì"
+jedwab,丝,sī
+jedwab,丝绸,sīchóu
+"jedwab sztuczny",人造丝,rénzàosī
+jedynak,独生子,"dú shēng zǐ"
+jedzenie,食物,"shí wù"
+jeleń,鹿,lù
+jelita,肠,cháng
+jesień,秋天,qiūtiān
+jezioro,湖,hú
+Jezus,耶稣,yēsū
+język,舌头,shétou
+język,语言,yǔyán
+jeśli,如果,"rú guǒ"
+jeść,吃,chī
+"jeździć na nartach",滑雪,"huá xuě"
+jeżeli,如果,"rú guǒ"
+Joanna,尤安娜,qiáoānnà
+jogurt,酸奶,suānnǎi
+jogurt,酸乳酪,"suān rŭlào"
+jojo,溜溜球,"liū liū qiú"
+Jowisz,木星,"mù xīng"
+Józef,尤则夫,"yóu zé fū"
+judaizm,犹太教,yóutàijiào
+jujutsu,柔术,"róu shù"
+Julia,尤莉娅,yóulìyà
+jutro,明天,míngtiān
+już,已经,yǐjīng
+jądra,睾丸,gāowán
+jądro,原子核,"yuán zǐ hé"
+kabel,电缆,"diàn lǎn"
+kaczka,鸭子,yāzi
+kaczor,公鸭,gōngyā
+kadzidło,香,xiāng
+kajak,独木舟,"dú mù zhōu"
+kajdanki,手铐,shǒukào
+kakao,可可粉,"kě kě fěn"
+kakao,可可饮料,"kě kě yǐn liào"
+kaktus,仙人掌,xiānrénzhǎng
+kalafior,花菜,huācài
+kaleka,残疾人,cánjírén
+kalendarz,日历,rìlì
+Kalifornia,加利福尼亚,jiālìfúníyà
+kaligrafia,书法,shūfă
+kalkulator,计算器,jìsuànqì
+kaloryfer,加热器,"jiā rè qì"
+kalosz,雨鞋,"yǔ xié"
+kameleon,变色龙,biànsèlóng
+kamera,摄像机,shèxiángjī
+kamera,摄影机,shèyǐngjī
+kamień,石头,shítou
+Kanada,加拿大,jiānádà
+kanapa,沙发,"shā fā"
+kanapka,三明治,"sān míng zhì"
+kanarek,金丝雀,jīnsīquè
+kandydat,候选人,"hòu xuǎn rén"
+kangur,袋鼠,dàishǔ
+Kansas,堪萨斯,kānsàsī
+kantor,外汇兑换处,"wài huì duì huàn chǔ"
+kapelusz,帽子,"mào zi"
+kapeć,拖鞋,"tuō xié"
+kapusta,卷心菜,"juǎn xīn cài"
+"kapusta pekińska",大白菜,dàbáicài
+kara,惩罚,chéngfá
+karaluch,蟑螂,zhāngláng
+karate,空手道,"kōng shǒu dào"
+kariera,生涯,"shēng yá"
+kark,经背,jǐngbèi
+karmel,焦糖,"jiāo táng"
+karnawał,嘉年华会,"jiā nián huā huì"
+Karolina,卡罗琳,kǎluólín
+karp,鲤鱼,"lǐ yú"
+karta,卡片,"kǎ piàn"
+"karta graficzna",显示卡,"xiǎn shì kǎ"
+"karta kredytowa",信用卡,"xìn yòng kǎ"
+kartka,卡片,"kǎ piàn"
+"kartka pocztowa",明信片,"míng xìn piàn"
+kartofel,马铃薯,mǎlíngshǔ
+karuzela,旋转木马,"xuán zhuàn mù mǎ"
+kasjer,出纳员,chūnàyuán
+kaszmir,开司米,kāisīmĭ
+Katarzyna,卡塔哲娜,kǎtàzhénà
+katedra,大教堂,"dà jiào táng"
+kategoria,类别,"lèi bié"
+katolicyzm,天主教,tiānzhŭjiào
+katolik,天主教徒,"tiān zhǔ jiào tú"
+Katowice,卡托维兹,kǎtuōwéice
+kawa,咖啡,"kā fēi"
+kawaleria,骑兵,"qí bīng"
+kawał,玩笑,"wán xiào"
+kawał,笑话,"xiào huà"
+kawiarnia,咖啡馆,"kā fēi guǎn"
+Kazimiera,卡吉米拉,"kǎ jí mǐ lā"
+Kazimierz,卡吉米日,kǎjímǐrì
+każdy,每,měi
+kelner,侍者,shìzhě
+kiedy,什么时候,"shénme shíhou"
+kierowca,司机,"sī jī"
+kierownica,方向盘,"fāng xiàng pán"
+kierownik,经理,"jīng lǐ"
+kieszeń,衣袋,yīdài
+kiełbasa,香肠,xiāngcháng
+kij,杆,gān
+kijanka,蝌蚪,"kē dǒu"
+Kinga,金达,jīndá
+kino,电影院,diànyǐngyuàn
+kiosk,报亭,bàotíng
+kiwi,猕猴桃,míhóutáo
+klasa,教室,"jiào shì"
+klasa,班级,"bān jí"
+klasztor,修道院,"xiū dào yuàn"
+klatka,笼子,"lóng zi"
+"klatka piersiowa",胸腔,xiōngqiāng
+klawiatura,键盘,"jiàn pán"
+kleić,贴,tiē
+klej,胶,jiāo
+klepsydra,漏壶,"lòu hú"
+klęska,败北,"bài běi"
+klient,顾客,gùkè
+klimat,气候,qìhòu
+klimatyzacja,空调,"kōng tiáo"
+klinika,诊所,"zhěn suǒ"
+klown,小丑,"xiǎo chǒu"
+klub,俱乐部,"jù lè bù"
+klucz,钥匙,yàoshi
+klucz,扳钳,"bān qián"
+klucz,扳手,"bān shŏu"
+klątwa,诅咒,"zǔ zhòu"
+knajpa,酒吧,jiǔbā
+kobiecość,女人味,"nǚ rén wèi"
+kobieta,女,nǚ
+kobra,眼镜蛇,"yǎn jìng shé"
+koc,毛毯,"máo tǎn"
+kocham,我爱,"wǒ ài"
+"kocham cię",我爱你,"wǒ ài nǐ"
+kochanek,情人,qíngrén
+kochanie,爱,ài
+kochany,亲爱的,qīn'àide
+kochać,爱,ài
+kocioł,锅炉,"guō lú"
+kod,邮编,"yóu biān"
+kogut,公鸡,gōngjī
+kokon,茧,jiǎn
+kokos,椰子,"yē zi"
+kolacja,晚饭,wǎnfàn
+kolano,膝,xī
+kolec,刺,cī
+kolega,同事,tóngshì
+kolej,铁路,"tiě lù"
+kolejka,长队,"cháng duì"
+koliber,蜂鸟,"fēng niǎo"
+kolonia,殖民地,"zhí mín dì"
+kolonia,夏令营,"xià lìng yíng"
+kolor,颜色,"yán sè"
+Kolorado,科罗拉多,kēluólāduō
+komar,蚊子,"wén zi"
+kombinerki,钳子,qiánzi
+komentarz,注释,"zhù shì"
+komfort,舒适,"shū shì"
+komin,烟囱,"yān cōng"
+komórka,手机,shǒujī
+komórka,细胞,"xì bāo"
+kompas,指南针,"zhǐ nán zhēn"
+komplikacja,复杂化,"fù zá huà"
+kompresor,压缩机,"yā suō jī"
+komputer,电脑,diànnǎo
+komunizm,共产主义,"gòng chǎn zhǔ yì"
+koń,马,mǎ
+"koń trojański",特洛伊木马,"tè luò yī mù mǎ"
+koncert,音乐会,yīnyuèhuì
+kończyć,结束,jiéshù
+koniec,结束,"jié shù"
+"koniec świata",世界末日,"shì jiè mò rì"
+konkurs,比赛,"bǐ sài"
+Konstantynopol,君士坦丁堡,"jūn shì tǎn dīng bǎo"
+kontakt,接触,"jiē chù"
+kontener,集装箱,jízhuāngxiāng
+konto,户头,"hù tóu"
+kontrakt,合约,"hé yuē"
+kontrast,对比,"duì bǐ"
+kontrola,控制,"kòng zhì"
+kontynuować,继续,jìxù
+kopalnia,矿,kuàng
+koparka,挖土机,wātǔjī
+kopać,踢,tī
+kopać,挖,wā
+koperta,信封,"xìn fēng"
+kopyto,蹄,tí
+koralowiec,珊瑚纲,"shān hú gāng"
+Korea,韩国,"hán guó"
+"Korea Północna",朝鲜,"cháo xiǎn"
+"Korea Południowa",韩国,"hán guó"
+koreański,朝鲜语,"cháo xiǎn yǔ"
+korona,王冠,"wáng guān"
+korsarz,海盗,"hǎi dào"
+korzeń,根,gēn
+kosiarka,割草机,"gē cǎo jī"
+kosmos,宇宙,yǔzhòu
+kosz,篮子,"lán zi"
+kosz,垃圾箱,"lā jī xiāng"
+koszmar,恶梦,"è mèng"
+koszt,代价,"dài jià"
+koszyk,篮子,lánzi
+koszykówka,篮球,lánqiú
+kot,猫,māo
+kowal,铁匠,"tiě jiang"
+koza,山羊,shānyáng
+Kozak,哥萨克人,"gē sà kè rén"
+Koziorożec,魔羯座,móxiēzuò
+kozioł,公山羊,"gōng shān yáng"
+kości,骨头,gŭtóu
+kościotrup,骷髅,"kū lóu"
+kościół,教堂,"jiào táng"
+"kościół katolicki",天主教,"tiān zhǔ jiào"
+kość,骨头,"gǔ tou"
+kołdra,被子,"bèi zi"
+koło,圆,yuán
+koło,轮,lún
+kołowrotek,纺车,"fǎng chē"
+kołysanka,摇篮曲,"yáo lán qǔ"
+krab,蟹,xiè
+kraj,国家,"guó jiā"
+krajobraz,风景,"fēng jǐng"
+Kraków,克拉科夫,kèlākēfū
+krasnal,矮子,"ǎi zi"
+krasnoludek,矮子,"ǎi zi"
+krawężnik,边石,biānshí
+kraść,偷,tōu
+kreatywność,创造力,"chuàng zào lì"
+kreda,粉笔,fěnbǐ
+kręgosłup,脊椎骨,jĭzhuīgŭ
+"krem do opalania",防晒霜,fángshàishuāng
+krepa,绉,zhòu
+kreskówka,动画片,"dòng huà piān"
+kret,鼹鼠,"yǎn shǔ"
+krew,血,xuè
+krewetka,虾,xiā
+krewny,亲属,qīnshǔ
+krokodyl,鳄鱼,èyú
+król,国王,"guó wáng"
+królewna,公主,"gōng zhǔ"
+króliczek,栗鼠,"lì shǔ"
+królik,兔子,"tù zi"
+królowa,女王,"nǚ wáng"
+kropka,点,diǎn
+kropla,滴,dī
+krótki,短,duǎn
+krowa,母牛,mǔniú
+krowa,奶牛,nǎiniú
+kruk,大乌鸦,"dà wū yā"
+Krystyna,克莉斯婷娜,"kè lì sī tīng nà"
+kryształ,水晶,"shuǐ jīng"
+kryzys,危机,wēijī
+krzesło,椅子,"yǐ zi"
+krzew,灌木,guànmù
+krzyczeć,喊叫,"hǎn jiào"
+krzyk,尖叫声,"jiān jiào shēng"
+Krzysztof,克石士托夫,kèshíshìtuōfū
+krzywy,歪斜,"wāi xié"
+krzywy,扭歪,"niŭ wāi"
+krzyż,十字架,"shí zì jià"
+księgarnia,书店,"shū diàn"
+księgowy,会计,"kuài jì"
+księżniczka,公主,gōngzhǔ
+księżyc,月亮,yuèliàng
+ksiądz,神父,"shén fù"
+ksiądz,牧师,"mù shī"
+książę,公爵,"gōng jué"
+książka,书,shū
+ksywka,昵称,"nì chēng"
+kształt,形式,"xíng shì"
+kto,谁,shuí
+kto,谁,shéi
+kubek,杯子,"bēi zi"
+kucharz,厨师,chúshī
+kuchnia,厨房,chúfáng
+kucyk,辫子,biànzi
+kucyk,小马,xiǎomǎ
+kufel,缸子,"gāng zi"
+kukułka,杜鹃,"dù juān"
+kula,球,qiú
+kultura,文化,"wén huà"
+kung-fu,功夫,"gōng fu"
+kupić,买,mǎi
+kupować,买,mǎi
+kura,母鸡,mǔjī
+kurczak,小鸡,xiǎojī
+kurs,课程,"kè chéng"
+kurtka,短上衣,"duǎn shàngyī"
+kurtka,短外套,"duǎn wàitào"
+kuzyn,表哥,"biǎo gē"
+kuzyn,表弟,"biǎo dì"
+kuzynka,表姐,"biǎo jiě"
+kuzynka,表妹,"biǎo mèi"
+kwadrat,正方形,"zhèng fāng xíng"
+kwas,酸,suān
+kwaśny,酸的,"suān de"
+kwiaciarnia,花商,huāshāng
+kwiat,花,huā
+kwiecień,四月,sìyuè
+kłamać,说谎,"shuō huǎng"
+kłamca,骗子,"piàn zi"
+kłamstwo,谎言,"huǎng yán"
+"kłonić się",鞠躬,"jū gōng"
+"kąpać się",洗澡,xǐzǎo
+labirynt,迷宫,mígōng
+"lakier do paznokci",指甲油,zhĭjiāyoú
+lalka,娃娃,"wá wa"
+lalka,洋娃娃,yángwáwa
+lama,喇嘛,lămà
+lampa,电灯,diàndēng
+lampa,灯,dēng
+"lampa uliczna",路灯,lùdēng
+lampart,豹子,"bào zi"
+lampion,灯笼,dēnglóng
+lanca,长矛,"cháng máo"
+larwa,幼虫,yòuchóng
+las,森林,sēnlín
+latawiec,风筝,"fēng zheng"
+latać,飞,fēi
+lato,夏天,xiàtiān
+lawa,熔岩,"róng yán"
+lawina,雪崩,"xuě bēng"
+legalny,合法的,"hé fǎ de"
+lek,药,yào
+lekarz,医生,yīshēng
+lekarz,大夫,dàifù
+lekceważyć,忽视,"hū shì"
+lekcja,课,kè
+lekki,轻的,qīngde
+lekki,稀的,xīde
+lemur,狐猴,"hú hóu"
+len,麻,má
+leniwy,懒惰的,"lǎn duò de"
+lepić,包,bāo
+lew,狮子,"shī zi"
+Lew,狮子座,"shī zǐ zuò"
+lewy,左边的,"zuǒ biān de"
+liana,藤蔓植物,"téng màn zhí wù"
+liceum,高中学,"gāo zhōng xué"
+liczba,数字,shùzì
+Lidia,莉迪亚,lìdíyà
+liga,联合会,"lián gě huì"
+lilia,百合花,bǎihéhuā
+lina,绳,shéng
+linijka,尺子,"chǐ zi"
+lipa,椴树,"duàn shù"
+lipiec,七月,qīyuè
+lis,狐狸,"hú li"
+list,信,xìn
+lista,目录,"mù lù"
+listonosz,邮递员,"yóu dì yuán"
+listopad,十一月,"shí yī yuè"
+litera,字母,"zì mǔ"
+litość,宽恕,"kuān shù"
+lizak,棒棒糖,"bàng bàng táng"
+liść,叶,yè
+lód,冰,bīng
+lód,冰淇淋,"bīng qí lín"
+lodowiec,冰川,"bīng chuān"
+lodowisko,溜冰场,"liū bīng chǎng"
+lodówka,冰箱,"bīng xiāng"
+lody,冰淇淋,"bīng qí lín"
+lojalność,忠诚,"zhōng chéng"
+lornetka,双眼望远镜,shuāngyǎnwàngyuǎnjìng
+los,命运,"mìng yùn"
+lotnisko,机场,"jī chǎng"
+lotnisko,飞机场,"fēi jī chǎng"
+lotos,莲花,"lián huā"
+Louisiana,路易斯安娜,lùyìsī`ānnà
+lub,或者,"huò zhě"
+lubić,喜欢,xǐhuan
+Lublin,卢布林市,"lú bù lín shì"
+"Lucy Liu",刘玉玲,"liú yù líng"
+Luiza,路易莎,"lù yì shā"
+luka,空白,"bēi jù"
+luneta,望远镜,wàngyuǎnjìng
+lupa,放大镜,fàngdàjìng
+lusterko,镜子,"jìng zi"
+lustro,镜子,"jìng zi"
+lutownica,钎焊枪,"qiān hàn qiāng"
+luty,二月,èryuè
+luźny,松的,sōngde
+lycra,莱卡,láikă
+macica,子宫,"zǐ gōng"
+macierzyństwo,母性,"mǔ xìng"
+Madagaskar,马达加斯加,"mǎ dá jiā sī jiā"
+mafia,黑手党,"hēi shǒu dǎng"
+magazyn,杂志,zázhì
+magazyn,仓库,cāngkù
+Magda,玛格达,mǎgédá
+Magdalena,玛格达雷娜,"mǎ gé dá léi nà"
+magia,魔法,mófǎ
+magik,魔术师,móshùshī
+magnes,磁铁,"cí tiě"
+maj,五月,wǔyuè
+Maja,玛雅,"mǎ yǎ"
+majestatyczny,威严,mēiyán
+majtki,短裤,duǎnkù
+mak,罂粟,"yīng sù"
+makaron,面,miàn
+makaron,面条儿,miàntiáor
+makler,股票经纪人,"gǔ piào jīng jì rén"
+makler,经纪人,"jīng jì rén"
+Maks,马克斯,mǎkèsī
+makulatura,废纸,"fèi zhǐ"
+malarz,画家,"huà jiā"
+malina,覆盆子,"fù pén zi"
+malować,绘画,"huì huà"
+malwa,蜀葵,"shǔ kuí"
+mama,妈妈,māma
+mamut,猛犸,měngmǎ
+mandarynka,橘子,"jú zi"
+manga,日本漫画,"rì běn màn huà"
+mango,芒果,mángguǒ
+mapa,地图,dìtú
+marcepan,杏仁蛋白软糖,"xìng rén dàn bái ruǎng táng"
+marchew,胡萝卜,"hú luó bo"
+marchewka,胡萝卜,"hú luó bo"
+Marcin,马尔钦,mǎěrqīn
+Marek,马莱克,mǎláikè
+Maria,玛利亚,mǎlìyà
+Mariusz,马柳士,"mǎ liǔ shì"
+marka,商标,"shāng biāo"
+marmur,大理石,"dà lǐ shí"
+Mars,火星,"huǒ xīng"
+Marta,马尔塔,mǎertǎ
+"martwić się",困扰,kùnrăo
+martwy,死的,"sǐ de"
+Martyna,马婷娜,"mà tíng nà"
+marzec,三月,sānyuè
+Marzena,马哲娜,"mǎ zhé nà"
+marzenie,梦想,mèngxiǎng
+marzyciel,做梦的人,"zuò mèng de rén"
+marzyć,做梦,"zuò mèng"
+masakra,大屠杀,"dà tú shā"
+masaż,按摩,ànmó
+masażysta,按摩师,ànmóshī
+maska,假面具,"jiǎ miàn jù"
+maszyna,机器,"jī qì"
+masło,黄油,huángyóu
+mata,席子,"xí zi"
+matematyka,数学,shùxué
+Mateusz,马修,mǎxiū
+matka,母亲,mǔqīn
+maść,药膏,"yào gāo"
+Małgorzata,玛乌高哲塔,mǎwūgāozhétǎ
+Małgorzata,玛乌古然塔,"mǎ wū gǔ rán tǎ"
+małpa,猴子,hóuzi
+mały,小,xiǎo
+małżeństwo,夫妇,fūfù
+małżeństwo,夫妻,fūqī
+mchy,苔藓,táixiăn
+mdłości,恶心,ěxīn
+mebel,家具,"jiā jù"
+mecz,比赛,"bǐ sài"
+medal,奖章,"jiǎng zhāng"
+mędrzec,哲人,zhérén
+meduza,水母,"shuǐ mǔ"
+medycyna,医学,yīxué
+medytacja,沉思,"chén sī"
+medytować,打坐,"dǎ zuò"
+Meksyk,墨西哥,mòxīgē
+melon,哈密瓜,hāmìguā
+Merkury,水星,"shuǐ xīng"
+męstwo,勇敢,"yǒng gǎn"
+metal,金属,jīnshǔ
+metka,标签,biāoqiān
+metr,米,mǐ
+metro,地铁,"dì tiě"
+mewa,海鸥,hǎiōu
+mężczyzna,男,nán
+mgła,雾,wù
+miasto,城市,chéngshì
+Michał,迈赫尔,màihèer
+miecz,剑,jiàn
+międzynarodowy,国际,guójì
+miejsce,地方,"dì fāng"
+miękki,软的,ruǎnde
+mierzyć,量,liáng
+mięsień,肌肉,"jī ròu"
+miesiąc,月,yuè
+miesiączka,例假,lìjià
+mięso,肉,ròu
+mieszkanie,公寓,"gōng yù"
+mieszkać,住,zhù
+miętus,淡水鳕鱼,dànshuǐxuěyú
+mieć,有,yǒu
+"mieć gorączkę",发烧,fāshāo
+migdał,杏仁,"xìng rén"
+mikrofon,麦克风,màikèfēng
+milczenie,沉默,"chén mò"
+milenium,一千年,"yī qiān nián"
+minister,部长,"bù zhǎng"
+Minnesota,明尼苏达,míngnísūdá
+miód,蜂蜜,"fēng mì"
+misja,任务,"rèn wu"
+misja,代表团,"dài biǎo tuán"
+miska,碗,wǎn
+Mississippi,密西西比,mīxīxībǐ
+Missouri,密苏里,mìsùlǐ
+mistrz,冠军,guànjūn
+miś,玩具熊,wánjùxíong
+miłość,爱情,"ài qíng"
+miły,美好,měihǎo
+mleko,牛奶,niúnǎi
+"mleko krowie",牛奶,niúnǎi
+mnich,和尚,héshang
+mniszka,尼姑,nĭgū
+móc,可以,kěyǐ
+mocny,强壮的,"qiáng zhuàng de"
+model,模型,"mó xíng"
+model,模特儿,"mó tè er"
+modelka,模特儿,"mó tè er"
+modliszka,螳螂,"táng láng"
+mogiła,坟墓,fénmù
+mój,我的,"wǒ de"
+mokry,湿的,shīde
+moment,片刻,"piàn kè"
+moneta,硬币,"yìng bì"
+Mongolia,蒙古,ménggǔ
+Monika,莫妮卡,mòníkǎ
+monitor,显示屏,xiǎnshìpíng
+Montana,蒙大拿,měngdàná
+monument,纪念碑,"jì niàn bēi"
+mops,巴哥犬,"bā gē quǎn"
+morderca,杀人犯,"shā rén fàn"
+morze,海,hǎi
+"Morze Bałtyckie",波罗的海,"bō luō dì hǎi"
+Moskwa,莫斯科,"mò sī kē"
+most,桥,qiáo
+most,桥梁,qiáoliáng
+motocykl,摩托车,"mó tuō chē"
+motor,摩托车,mótuōchē
+motyl,蝴蝶,húdié
+motyl,螟蛾,"míng é"
+mowa,演讲,"yǎn jiǎng"
+mówić,说,shuō
+mózg,脑子,"nǎo zi"
+może,可能,kěnéng
+mroczny,黑暗的,"hēi àn de"
+mrok,黝暗,"yǒu àn"
+mrówka,蚂蚁,máyǐ
+mróz,霜,shuāng
+msza,弥撒,"mí sa"
+mucha,蝇,yíng
+mundur,制服,zhìfú
+mur,墙,qiáng
+"Mur Chiński",长城,chángchéng
+Murzyn,黑人,"hēi rén"
+musieć,必须,"bì xū"
+muzeum,博物馆,"bó wù guǎn"
+muzeum,展览馆,"zhǎn lǎn guǎn"
+muzyk,音乐家,"yīn yuè jia"
+muzyka,音乐,yīnyuè
+my,我们,wǒmen
+mydło,肥皂,"féi zào"
+mysz,老鼠,"lǎo shǔ"
+mysz,鼠标,"shǔ biāo"
+mysza,老鼠,"lǎo shǔ"
+myszka,鼠标,"shǔ biāo"
+myć,洗,xǐ
+"myć się",洗澡,xǐzǎo
+"myć zęby",刷牙,"shuà yá"
+myśl,想法,"xiǎng fǎ"
+myśleć,想,xiǎng
+myśliwy,猎人,"liè rén"
+młodość,青春,qīngchūn
+młody,年轻的,"nián qīng de"
+młotek,锤,chuí
+mądrość,智慧,zhìhuì
+mądry,聪明,cōngming
+mądry,聪慧,cōnghuì
+mąka,面粉,"miàn fěn"
+mąż,丈夫,zhàngfu
+mąż,先生,xiānsheng
+mąż,老公,lǎogōng
+na,在...上,zài...shàng
+"na zawsze",永远,"yǒng yuǎn"
+"na zdrowie",干杯,gānbēi
+nadzieja,愿望,yuànwàng
+nagi,裸体的,"luǒ tǐ de"
+nagroda,报酬,bàochou
+nagły,突然的,"tū rán de"
+najgorszy,最坏的,"zuìhuài de"
+najlepszy,最好的,"zuìhăo de"
+nakrętka,螺母,luómǔ
+"należeć do",属于,"shǔ yǔ"
+namiętność,激情,"jī qíng"
+namiot,帐篷,"zhàng peng"
+napastnik,前锋,"qián fēng"
+naprawdę,真的,zhēnde
+naprawdę,非常,fēicháng
+narcyz,水仙,"shuǐ xiān"
+narta,滑雪板,"huá xuě bǎn"
+narzeczona,未婚妻,"wèi hūn qī"
+narzeczony,未婚夫,"wèi hūn fū"
+"narządy płciowe",性器官,xìngqìguān
+nasienie,种子,"zhǒng zi"
+nasz,我们的,"wǒ men de"
+naszyjnik,项链,xiàngliàn
+Natalia,娜塔莉亚,nàtǎlìyà
+natura,自然,"zì rán"
+naturalny,自然,"zì rán"
+nauczać,教,jiāo
+nauczyciel,老师,"lǎo shī"
+nauczyć,教,jiāo
+nauka,科学,"kē xué"
+nazwa,名字,"míng zi"
+nazwisko,姓,xìng
+"nazywać się",叫,jiào
+Nebraska,内部拉斯加,nèibùlāsījīa
+nefryt,软玉,"ruǎn yù"
+Neptun,海王星,"hǎi wáng xīng"
+nerki,肾,shèn
+nerwy,神经,shénjīng
+neutron,中子,"zhōng zǐ"
+Newada,内华达,nèihuádá
+nie,不,bù
+"nie ma",没有,"méi yǒu"
+"nie wiem",我不知道,"wǒ bù zhīdào"
+niebezpieczeństwo,危险,wēixiǎn
+niebezpieczny,危险的,"wēi xiǎn de"
+niebieski,蓝色,lánsè
+niebo,天,tiān
+niedziela,星期天,xīngqītiān
+niedziela,星期日,xīngqīrì
+niedźwiedź,熊,xióng
+niegodziwiec,可怜的人,"kělián de rén"
+nielegalny,不合法的,"bù hé fǎ de"
+Niemcy,德国,"dé guó"
+Niemiec,德国人,"dé guó rén"
+niemiecki,德国的,"dé guó de"
+niemiecki,德语,"dé yǔ"
+niemowlę,婴儿,yīng'ér
+nienawidzieć,讨厌,"tǎo yàn"
+nienawidzić,讨厌,"tǎo yàn"
+nienawiść,憎恨,zènghèn
+nieobecność,缺席,"quē xí"
+nieprzyjaciel,敌人,dírén
+niespodzianka,惊奇,"jīng qí"
+niespodziewany,突然的,"tū rán de"
+niespokojny,躁,zào
+nieszczęście,灾难,"zāi nàn"
+nietoperz,蝙蝠,biǎnfú
+niewidzialny,看不见的,"kàn bu jiàn de"
+niewolnik,奴隶,núlì
+niezależność,独立,"dú lì"
+niezapominajka,勿忘草,"wù wàng cǎo"
+nieznany,未知的,"wèi zhī de"
+niezniszczalny,破坏不了的,"pòhuài bùliǎo de"
+nieśmiertelność,不朽,"bù xiǔ"
+nieśmiertelny,不朽,"bù xiǔ"
+nigdy,从不,"cóng bù"
+ninja,忍者,"rěn zhě"
+niski,矮的,ǎide
+noc,夜,yè
+noc,夜晚,"yè wǎn"
+noc,夜间,"yè jiān"
+noga,脚,jiǎo
+noga,腿,tǔi
+nos,鼻子,bízi
+nosorożec,犀牛,"xī niú"
+notariusz,公证人,"gōng zhèng rén"
+nów,月牙,yuèyá
+nowość,新奇,"xīn qí"
+nowy,新,xīn
+"Nowy Meksyk",新墨西哥,"xīn mòxīgē"
+nóż,刀,dāo
+nożyczki,剪刀,"jiǎn dāo"
+nuda,厌烦,"yàn fán"
+nudny,枯燥,kūzào
+nudny,无聊,wúliáo
+nudny,呆板,dāibǎn
+numer,号码,"hào mǎ"
+nurek,潜水员,"qián shuǐ yuán"
+nuta,音符,"yīn fú"
+nylon,尼龙,nílóng
+Nysa,尼斯,"ní sī"
+oaza,绿洲,"lǜ zhōu"
+obcy,外国的,"wài guó de"
+obejrzeć,看,kàn
+obelgi,辱骂,"rǔ mà"
+obfitość,丰富,"fēng fù"
+obiad,午饭,wǔfàn
+objętość,体积,"tǐ jī"
+obniżka,折扣,zhékòu
+obok,旁边,pángbiān
+obraz,绘画,huìhuà
+obrobiony,锤炼成,"chúiliàn chéng"
+obrona,防御,"fáng yù"
+obrońca,防卫者,"fáng wèi zhe"
+obrączka,耳环,ěrhuán
+obywatel,公民,gōngmín
+obłok,云,yún
+ocean,洋,yáng
+ocean,海洋,"hǎi yáng"
+ocena,成绩,"chéng jì"
+ochota,乐趣,"lè qù"
+ochota,兴趣,"xìng qù"
+ochraniać,保护,"bǎo hù"
+ochrona,保护,"bǎo hù"
+oczekiwać,等候,"děng hòu"
+oczywiście,当然,"dāng rán"
+odbyt,肛门,gāngmén
+odcinek,插曲,"chā qǔ"
+oddać,归还,"guī huán"
+oddech,气息,qìxī
+odkurzacz,吸尘器,"xī chén qì"
+odległość,距离,"jù lí"
+odpoczynek,休息,"xiū xi"
+odpoczywać,休息,"xiū xi"
+odpowiadać,回答,huídá
+odpowiedzieć,回答,huídá
+odpływ,低潮,"dī cháo"
+odra,麻疹,"má zhěn"
+odraza,厌恶,"yàn wù"
+odwaga,勇气,yǒngqì
+odważny,勇敢的,"yǒng gǎn de"
+odwiedzać,探望,tànwàng
+odwiedzać,拜访,bàifǎng
+odwiedzić,探望,tànwàng
+odwiedzić,拜访,bàifǎng
+oferować,提供,"tí gōng"
+oferta,出价,"chū jià"
+ogień,火,hǔo
+oglądać,看,kàn
+ognisko,营火,"yíng huǒ"
+"ogniwo słoneczne",太阳能电池,"tài yáng néng diàn chí"
+ogon,尾巴,"wěi ba"
+ogórek,黄瓜,"huáng guā"
+ogrodzenie,围墙,"wéi qiáng"
+ojciec,父亲,fùqin
+ojczyzna,祖国,zǔguó
+Oklahoma,俄克拉何马,ékèlāhémǎ
+okno,窗户,chuānghù
+oko,眼睛,yǎnjīng
+okres,时期,"shí qī"
+okrutny,残酷的,"cán kù de"
+okrąg,圆,yuán
+okulary,眼镜,yǎnjìng
+okładka,封面,"fēng miàn"
+Olaf,欧拉夫,"ōu lā fū"
+olbrzym,巨人,jùrén
+olej,油,yóu
+olimpiada,奥林匹克,"ào lín pǐ kè"
+olimpiada,奥运会,"aò yùn hùi"
+oliwa,橄榄油,"gǎn lǎn yóu"
+Oliwia,奥莉维亚,"ào lì weí yà"
+oliwka,橄榄,gánlǎn
+"oliwka dla dzieci",婴儿护肤油,"yīngér hùfūyóu"
+on,他,tā
+ona,她,tā
+one,她们,tāmen
+oni,他们,tāmen
+ono,它,tā
+opcja,选择,"xuǎn zé"
+Opel,欧宝,"ōu bǎo"
+opera,歌剧,gējù
+opis,描写,"miáo xiě"
+opisać,描述,"miáo shù"
+opona,轮胎,"lún tāi"
+opowiadanie,故事,"gù shì"
+optymizm,乐观,"lè guān"
+opuszczać,放弃,"fàng qì"
+opuszczać,离开,"lí kāi"
+orchidea,兰花,lánhuā
+ordynator,院长,yùanzhăng
+Oregon,俄勒冈,élègāng
+origami,折纸手工,"zhé zhǐ shǒu gōng"
+orkiestra,管弦乐队,guǎnxiányuèduì
+orzeł,鹰,yīng
+osa,黄蜂,"húang fēng"
+osada,沉降,"chén jiàng"
+osiem,八,bā
+osioł,驴,lǘ
+Oskar,奥斯卡,àosīkǎ
+oskarżenie,控告,"kòng gào"
+osoba,人,rén
+ostatni,最后的,"zuì hòu de"
+ostry,尖的,"jiān de"
+ostry,锋利的,"fēng lì de"
+ostry,辣的,"là de"
+ostrze,刀锋,"dāo fēng"
+oszukać,骗,piàn
+oszukiwać,骗,piàn
+oszust,骗子,"piàn zi"
+osądzać,判决,"pàn jué"
+otchłań,深渊,"shēn yuān"
+otwarty,开着的,kāizhede
+otwierać,打开,"dǎ kāi"
+owca,羊,yáng
+owijać,包,bāo
+owijać,裹,guŏ
+owoc,水果,shuíguǒ
+"oświadczać się",求婚,"qiú hūn"
+oświadczenie,声明,"shēng míng"
+oświadczyny,求婚,"qiú hūn"
+"oświadczyć się",求婚,"qiú hūn"
+Oświęcim,奥斯威辛,"ào sī wēi xīn"
+ołówek,铅笔,"qiān bǐ"
+paczka,包裹,"bāo guǒ"
+pajac,小丑,"xiǎo chǒu"
+pająk,蜘蛛,zhīzhū
+pakować,包,bāo
+palec,手指,shǒuzhǐ
+palec,脚趾,jiǎozhǐ
+paliwo,燃料,"rán liào"
+palić,烧伤,"shāo shāng"
+palić,抽烟,"chōu yān"
+pamiętać,记得,"jì de"
+pamiętnik,日记,"rì jì"
+pamięć,记忆,"jì yì"
+pan,先生,xiānsheng
+"pan młody",新郎,"xīn láng"
+panda,熊猫,xióngmāo
+pani,小姐,xiǎojie
+panika,恐慌,"kǒng huāng"
+Panna,处女座,chùnǚzuò
+"panna młoda",新娘,"xīn niáng"
+państwo,国家,"guó jiā"
+pantera,豹子,"bào zi"
+papier,纸,zhǐ
+"papier toaletowy",卫生纸,"wèishēng zhǐ"
+"papier ścierny",沙纸,shāzhǐ
+papieros,香烟,"xiāng yān"
+papież,教皇,jiàohuáng
+papryka,辣椒,"là jiāo"
+papuga,鹦鹉,yīngwǔ
+para,双,shuāng
+para,蒸气,"zhēng qì"
+parabola,抛物线,pāowùxiàn
+parasol,伞,sǎn
+parasolka,伞,sǎn
+park,公园,gōngyuán
+parking,停车场,"tíng chē chǎng"
+parowóz,蒸汽火车,"zhēng qì huǒ chē"
+partia,政党,"zhèng dǎng"
+pasażer,乘客,chéngkè
+pasja,激情,"jī qíng"
+pasożyt,寄生虫,"jì shēng chóng"
+"pasta do zębów",牙膏,"yá gāo"
+pasterz,牧羊者,mùyángzhě
+patelnia,平底锅,"píng dì guō"
+patent,专利,"zhuān lì"
+patriota,爱国者,"ài guó zhě"
+patriotyzm,爱国,"ài guó"
+Patrycja,帕特里夏,pàtèlǐxià
+Patryk,帕特里克,pàtèlǐkè
+patrzeć,看,kàn
+Paulina,帕乌里娜,pàwūlǐnà
+pauza,暂停,"zàn tíng"
+paw,孔雀,kǒngquè
+Paweł,保罗,bǎoluó
+paznokieć,指甲,"zhǐ jia"
+pazur,爪,zhuǎ
+pazur,爪,zhǎo
+październik,十月,shíyuè
+pałac,宫殿,gōngdiàn
+pałeczka,筷子,"kuài zi"
+pałeczki,筷子,"kuài zi"
+pałka,警棍,"jǐng gùn"
+pchła,蚤,zăo
+pech,不幸,"bù xìng"
+pedał,踏板,"tà bǎn"
+Pekin,北京,"běi jīng"
+pelikan,鹈鹕,"tí hú"
+penis,阴茎,yīnjìng
+pępek,肚脐,"dù qí"
+perfekcja,完美,"wán měi"
+pergamin,羊皮纸,"yáng pí zhǐ"
+perkusista,鼓手,"gǔ shǒu"
+perspektywa,透视,"tòu shì"
+perła,珍珠,"zhēn zhū"
+perły,珍珠,zhēnzhū
+pełnia,满月,mănyuè
+pełny,满的,mǎnde
+pi,圆周率,"yuán zhōu lǜ"
+piach,沙,shā
+piasek,沙,shā
+piaski,黄砂,huángshā
+piec,烤炉,"kǎo lú"
+piec,烤,kǎo
+piechota,步兵,"bù bīng"
+piękno,美,měi
+piękność,美丽,"měi lì"
+piękny,漂亮,piàoliang
+piękny,美丽,měilì
+piekło,地狱,"dì yù"
+pielęgniarka,护士,hùshi
+pielucha,尿布,"niào bù"
+pieniądze,钱,qián
+pieprz,胡椒,hújiāo
+pierogi,饺子,jiǎozi
+pierwiastek,元素,"yuán sù"
+pierze,羽绒,yŭróng
+pierścionek,戒指,"jiè zhi"
+pies,狗,gǒu
+pieszy,行人,xíngrén
+piętro,楼,lóu
+piętro,层,céng
+pięć,五,wǔ
+pieśń,圣歌,"shèng gē"
+pięść,拳头,"quán tou"
+pijak,醉鬼,zuìguĭ
+pijawka,蚂蟥,"mǎ huáng"
+pilot,飞行员,"fēi xíng yuán"
+pilot,遥控器,"yáo kòng qì"
+"ping pong",乒乓球,"pīng pāng qiú"
+ping-pong,乒乓球,"pīng pāng qiú"
+pingwin,企鹅,"qǐ é"
+pion,π介子,"π jiè zǐ"
+pionowy,垂直的,"chuí zhí de"
+pióro,钢笔,"gāng bǐ"
+pióro,羽毛,"yǔ máo"
+piorun,闪电,"shǎn diàn"
+piosenka,歌,gē
+piosenka,歌曲,gēqǔ
+piosenkarz,歌手,gēshǒu
+piosenkarz,歌唱家,gēchàngjīa
+Piotr,彼得,bǐdé
+piramida,金字塔,jīnzìtǎ
+pirat,盗印者,"dào yìn zhě"
+pirat,海盗,"hǎi dào"
+pisanka,彩蛋,cǎidàn
+pisarz,书写人,shūxiěrén
+pisarz,作家,zuòjiā
+pisać,写,xiě
+pismo,笔迹,"bǐ jì"
+piwnica,地窖,dìjiào
+piwo,啤酒,"pí jiǔ"
+pizza,比萨饼,"bǐ sà bǐng"
+pić,喝,hē
+piłka,球,qiú
+"piłka koszykowa",篮球,"lán qiú"
+"piłka nożna",足球,zúqiú
+"piłka siatkowa",排球,"pái qiú"
+piłkarz,足球员,zúqiúyuán
+piątek,星期五,xīngqīwǔ
+piżama,睡衣,shuìyī
+plac,广场,"guǎng chǎng"
+plama,渍,zì
+plan,计划,"jì huà"
+planeta,行星,"xíng xīng"
+plastyka,美术课,"měi shù kè"
+platyna,白金,báijīn
+plaża,海滩,"hǎi tān"
+plecak,背包,bēibāo
+plecy,背,bèi
+plemię,部落,"bù luò"
+plus,加号,"jiā hào"
+Pluton,冥王星,"míng wáng xīng"
+pobierać,下载,"xià zài"
+pocałować,吻,wěn
+pocałunek,吻,wěn
+pochwa,阴道,yīndào
+pocisk,枪弹,qiāngdàn
+pociąg,火车,huǒchē
+poczta,邮局,yoújú
+"poczta elektroniczna",电子邮件,"diàn zi yóu jiàn"
+początek,开端,"kāi duān"
+podatek,税,shuì
+podaż,供应,gōngyìng
+"poddać się",投降,"tóu xiáng"
+podejrzany,怀疑,"huái yí"
+podeszwa,鞋底,"xié dǐ"
+podkowa,马蹄铁,"mǎ tí tiě"
+podkładka,垫圈,diàquān
+podręcznik,课本,kèběn
+podróż,旅游,"lǚ yóu"
+podróż,旅行,"lǚ xíng"
+podróżnik,旅行者,"lǚ xíng zhě"
+podróżować,旅游,"lǚ yóu"
+poduszka,枕头,zhěntóu
+podwórko,庭院,"tíng yuàn"
+podwórze,院子,yuànzi
+podziw,钦佩,"qīn pèi"
+podłoga,地板,dìbǎn
+podły,卑鄙,"bēi bì"
+poeta,诗人,"shī rén"
+poezja,诗歌,"shī gē"
+pogoda,天气,tiānqì
+pogodny,欢乐,huānlè
+pogromca,驯养人,"xùn yǎng rén"
+pojezierze,湖泊,húpò
+pokaz,表演,"biǎo yǎn"
+pokazać,表示,"biǎo shì"
+poker,扑克,"pū kè"
+pokój,房间,fángjiān
+pokój,和平,hépíng
+pokrywka,盖,gài
+Polak,波兰人,"bō lán rén"
+pole,田地,"tián dì"
+policja,警察,"jǐng chá"
+policjant,警察,"jǐng chá"
+poliester,伸缩尼龙,shēnsuōnílóng
+polować,打猎,"dǎ liè"
+Polska,波兰,"Bō lán"
+polski,波兰的,"bō lán de"
+polski,波兰语,"bō lán yǔ"
+pomagać,帮助,"bāng zhù"
+pomarańcza,橙子,"chéng zi"
+pomarańczowy,橙色,chéngsè
+pomidor,西红柿,"xī hóng shì"
+pomoc,帮助,"bāng zhù"
+pompa,抽水机,"chōu shuǐ jī"
+pompka,打气筒,"dǎ qì tǒng"
+pompować,抽水,"chōu shuǐ"
+pompować,打气,"dǎ qì"
+pomysł,想法,xiǎngfǎ
+pomyślność,繁荣,"fán róng"
+pomyślny,成功,chénggōng
+pończochy,长袜,"cháng wà"
+poniedziałek,星期一,xīngqīyī
+ponury,阴郁的,"yīn yù de"
+popiół,灰,huī
+popołudnie,下午,xiàwǔ
+popularność,流行,"liú xíng"
+popyt,需求,xūqiú
+por,韭葱,"jiǔ cōng"
+poranek,早晨,"zǎo chén"
+porażka,败北,"bài běi"
+porcelana,瓷器,"cí qì"
+pornograficzny,黄色,huángsè
+poronienie,流产,"liú chǎn"
+port,港口,"gǎng kǒu"
+portfel,皮夹,"pí jiā"
+portret,肖像,"xiào xiàng"
+portret,画像,"huà xiàng"
+portretować,画像,"huà xiàng"
+Portugalia,葡萄牙,pútáoyá
+porywać,绑架,"bǎng jià"
+porządek,顺序,"shùn xù"
+porządny,整齐的,zhěngqíde
+posiłek,膳食,"shàn shí"
+postrzał,抢伤,qiāngshāng
+potęga,权势,quánshì
+potem,然后,"rán hòu"
+potężny,强有力的,"qiáng yǒu lì de"
+potrafić,会,huì
+potrzebować,需要,"xū yào"
+potwierdzenie,确认,"què rèn"
+potwór,怪物,"guài wu"
+powaga,严肃,"yán sù"
+powierzchnia,面积,"miàn jī"
+powietrze,气,qì
+powitanie,欢迎,huānyíng
+powitać,欢迎,huānyíng
+powodzenia,祝你好运,"zhù nǐ hǎo yùn"
+powodzenie,流行,"liú xíng"
+powódź,洪灾,"hóng zāi"
+powrót,返回,"fǎn huí"
+pozdrawiać,致敬,"zhì jìng"
+pozdrowienia,问候,"wèn hòu"
+pozdrowienie,问候,"wèn hòu"
+poziom,水平,"shuǐ píng"
+poziomka,草莓,cǎoméi
+poziomy,水平的,"shuǐ píng de"
+Poznań,波兹南,"bō zī nán"
+poznać,认识,"rèn shi"
+poznać,认出,"rèn chū"
+pozytron,正电子,"zhēng diàn zǐ"
+pościel,被单,"bèi dān"
+pośladek,臀部,túnbù
+pośrednik,媒人,méiren
+pół,半,bàn
+północ,北,běi
+"Północna Dakota","北 达科他","běi dákētā"
+północny,北边,běibiān
+północny,北方,běifāng
+północny,北部,běibù
+połowa,半,bàn
+półprodukt,半成品,bànchéngpĭn
+południe,南,nán
+południe,中午,zhōngwǔ
+"Południowa Dakota","南 达科他","nán dákētā"
+południowy,南边,nánbiān
+południowy,南方,nánfāng
+południowy,南部,nánbù
+pożar,火灾,huǒzāi
+pożegnanie,告别,"gào bié"
+pożyczać,借,jiè
+pożyczyć,借,jiè
+praca,工作,gōngzuò
+pracować,工作,gōngzuò
+pracownia,工作室,"gōng zuò shì"
+pracownik,工人,"gōng rén"
+pragnienie,渴望,"kě wàng"
+pragnąć,渴望,"kě wàng"
+pralka,洗衣机,xǐyījī
+pralnia,洗衣店,"xǐ yī diàn"
+prasa,新闻界,"xīn wén jiè"
+PRAWDA,真实,zhēnshí
+prawdziwy,真的,"zhēn de"
+prawdziwy,假的,"jiǎ de"
+prawnik,律师,lǜshī
+prawo,法律,fǎlǜ
+prawosławie,东正教,dōngzhèngjiào
+prawy,右边的,"yòu biān de"
+prędkość,速度,"sù dù"
+prękość,速度,"sù dù"
+premier,总理,zǒnglǐ
+presja,压力,"yā lì"
+prezent,礼物,lǐwù
+prezentacja,简报,"jiǎn bào"
+prezerwatywa,安全套,ānquántào
+prezes,会长,"huì zhǎng"
+próba,尝试,chángshì
+problem,问题,wèntí
+próbować,试,shì
+procesor,处理器,"chǔ lǐ qì"
+proch,火药,"huǒ yào"
+producent,制造商,"zhì zào shāng"
+produkcja,生产,"shēng chǎn"
+produkt,商品,shāngpĭn
+prohibicja,禁酒令,"jìn jiǔ lìng"
+projekt,计划,jìhuà
+projektant,设计者,shèjìzhě
+prokurator,检察官,jiǎncháguān
+prolog,开场白,"kāi chǎng bái"
+promień,光线,"guāng xiàn"
+promień,半径,"bàn jìng"
+prosiak,小猪,"xiǎo zhū"
+prosię,小猪,"xiǎo zhū"
+prosić,问,wèn
+prostokąt,长方形,"cháng fāng xíng"
+prosty,简单的,"jiǎn dān de"
+prosty,直的,"zhí de"
+proszę,请,qǐng
+protestantyzm,新教,xīnjiào
+proteza,义肢,"yì zhī"
+proton,质子,"zhì zǐ"
+prowincja,省,shěng
+próżnia,真空,zhēnkōng
+prysznic,淋浴,"lín yù"
+przechowalnia,衣帽寄放处,"yī mào jì fàng chǔ"
+"przechowalnia bagażu",行李寄存处,"xíng li jì cún chù"
+przedpołudnie,上午,shàngwǔ
+przedramię,前臂,qiánbì
+przedstawiać,介绍,jièshào
+przedszkole,幼儿园,"yòu ér yuán"
+przędza,纱线,shāxiàn
+przegub,腕,wàn
+"przejście dla pieszych",斑马线,bānmǎxiàn
+"przejście podziemne",地道,dìdào
+przekazać,转达,zhuǎndá
+przekazać,传递,chuándì
+przekazywać,转达,zhuǎndá
+przekazywać,传递,chuándì
+przekręcać,拧,níng
+przemysł,工业,gōngyè
+Przemysław,培舍梅斯拉夫,"péi shè méi sī lā fū"
+przepraszam,对不起,duìbuqǐ
+przepraszać,道歉,dàoqiàn
+przepraszać,对不起,duìbuqǐ
+przeprawy,调料,tiáoliào
+przeprosić,道歉,dàoqiàn
+przerwa,缝隙,"fèng xì"
+przerwa,间隔,"jiàn gé"
+przestępstwo,犯罪,"fàn zuì"
+przestrzeń,空隙,kòngxì
+przestrzeń,间隔,jiāngé
+przeszkadzać,阻碍,"zǔ ài"
+przeszkoda,障碍,"zhàng ài"
+przeszłość,过去,"guò qù"
+przetrwanie,生存,"shēng cún"
+przetrwać,生存,"shēng cún"
+przeznaczenie,命运,"mìng yùn"
+prześcieradło,床单,chuángdān
+"przyciąganie ziemskie",地球重力,"dì qiú zhòng lì"
+przygoda,奇遇,"qí yù"
+przygotować,准备,"zhǔn bèi"
+przyjaciel,朋友,"péng you"
+przyjaźń,友谊,"yǒu yì"
+przyjęcie,晚会,wǎnhuì
+przyjęcie,宴会,yànhuì
+przyjemność,高兴,"gāo xìng"
+przykleić,贴,tiē
+przykład,榜样,"bǎng yàng"
+przymus,强迫,"qiǎng pò"
+przyprawy,香料,xiāngliào
+przypływ,高潮,"gāo cháo"
+przyroda,自然,"zì rán"
+przysięgać,发誓,fāshì
+"przystanek autobusowy",汽车站,qìchēzhàn
+przystojny,英俊的,"yīng jùn de"
+przyszłość,未来,"wèi lái"
+przytomny,意识,yìshì
+przytulać,紧抱,"jǐn bào"
+przytulić,紧抱,"jǐn bào"
+przywódca,领袖,"lǐng xiù"
+prąd,电流,"diàn liú"
+prąd,水流,"shuǐ liú"
+pszczoła,蜜蜂,"mì fēng"
+"pszczoła miodna",蜜蜂,mìfēng
+pszenica,小麦,"xiǎo mài"
+ptak,鸟,niǎo
+pudełko,盒子,"hé zi"
+puma,美洲狮,"měi zhōu shī"
+punk,朋克,"péng kè"
+pustelnik,隐士,"yǐn shì"
+pustka,空虚,"kōng xū"
+pusty,空的,kōngde
+pustynia,沙漠,shāmò
+puszka,罐,guàn
+puzzle,拼图玩具,"pīntú wánjù"
+puzzle,缕花锯,lǚhuāju
+pycha,傲慢,"ào màn"
+pytanie,问题,wèntí
+pytać,问,wèn
+pył,灰尘,"huī chén"
+pyłek,微尘,"wēi chén"
+płacić,支付,"zhī fù"
+płacz,哭,kū
+płakać,哭,kū
+płaszcz,大衣,"dà yī"
+płatek,花瓣,"huā bàn"
+płeć,性,xìng
+płomień,火焰,"huǒ yàn"
+płonący,燃烧,"rán shāo"
+"płyn hamulcowy",制动液,"zhì dòng yè"
+"płyta gramofonowa",唱片,chàngpiàn
+płytki,浅的,qiǎnde
+rabarbar,大黄,"dài huáng"
+rabat,折扣,"zhé kòu"
+raca,闪光,"shǎn guāng"
+rachunek,发票,fāpiào
+rada,劝告,quàngào
+Radek,莱德克,láidéke
+radio,收音机,"shōu yīn jī"
+radosny,高兴的,"gāo xìng de"
+radość,快乐,kuàilè
+Rafał,拉法乌,lāfǎwū
+raj,天堂,"tiān táng"
+rajstopy,裤袜,"kù wà"
+Rak,巨蟹座,"jù xiè zuò"
+rakieta,火箭,"huǒ jiàn"
+ramię,上臂,shàngbì
+rana,受伤,"shòu shāng"
+randka,约会,"yuē huì"
+ranek,早晨,"zǎo chén"
+ranić,伤,shāng
+ranić,伤口,shāngkŏu
+ranny,受伤的,"shòu shāng de"
+rano,早上,zǎoshang
+ratować,援救,"yuán jiù"
+ratusz,市政厅,"shì zhèng tīng"
+razem,一起,"yī qǐ"
+rdza,锈,xiù
+rdzewieć,生锈,"shēng xiù"
+realizować,实现,"shí xiàn"
+ręcznik,毛巾,"máo jīn"
+ręcznik,手巾,"shǒu jīn"
+region,地区,"dì qū"
+regionalny,地区的,"dì qū"
+reguła,规则,guīzé
+rejestracja,登记,"dēng jì"
+rejestrować,登记,"dēng jì"
+rejon,区,qū
+ręka,手,shǒu
+ręka,壁,bì
+rękaw,袖子,xiùzi
+rękawiczka,手套,"shǒu tào"
+rekin,鲨鱼,shāyú
+reklama,广告,guǎnggào
+rekord,记录,"jì lù"
+Remigiusz,雷米格士,"léi mǐ gé shì"
+reportaż,报告,"bào gào"
+republika,共和国,"gòng hé guó"
+restauracja,饭馆,fànguǎn
+rewolucja,革命,"gé mìng"
+rezerwacja,预定,"yù dìng"
+rezultat,结果,jiēguǒ
+rezygnacja,辞呈,"cí chéng"
+reżyser,导演,dǎoyǎn
+riksza,黄包车,huángbāochē
+robak,昆虫,kūnchóng
+Robert,罗伯特,luōbótè
+robić,工作,gōngzuò
+robić,做,zuò
+robić,做,zuò
+robotnik,工人,"gōng rén"
+rodzeństwo,兄弟姐妹,"xiōng dì jiě mèi"
+rodzice,父母,fùmǔ
+rodzice,爸妈,bàmā
+rodzina,家庭,jiātíng
+rodzić,生孩子,"shēng hái zi"
+róg,角落,"jiǎo luò"
+róg,角,jiǎo
+rok,年,nián
+"rolnik ",农民,nóngmín
+rolnik,农夫,"nóng fū"
+ropa,原油,"yuán yóu"
+ropucha,蟾蜍,"chán chú"
+Rosja,俄罗斯,éluósī
+rower,自行车,zìxíngchē
+równowaga,平衡,"píng héng"
+równość,平等,"píng děng"
+rozczarowanie,失望,"shī wàng"
+rozmawiać,说,shuō
+rozmowa,讨论,"tǎo lùn"
+rozpoznać,认出,"rèn chū"
+roztargniony,心不在焉,xīnbúzàiyān
+roztargniony,健忘,jiànwàng
+rozum,智力,"zhì lì"
+rozumieć,懂,dǒng
+roślina,植物,"zhí wù"
+roślinność,植物,"zhí wù"
+róża,玫瑰,méiguì
+różowy,粉红,fěnhóng
+różyczka,风疹,"fēng zhěn"
+rubin,红宝石,hóngbǎoshí
+ruch,移动,"yí dòng"
+rudy,赤褐色,"chì hè sè"
+Rumunia,罗马尼亚,"luō mǎ ní yà"
+rura,管,guǎn
+ruszać,移动,"yí dòng"
+"ruszać się",移动,"yí dòng"
+ryba,鱼,yú
+rybitwa,海鸥,hǎiōu
+Ryby,双鱼座,shuāngyúzuò
+rycerz,爵士,juéshì
+rysować,画,huà
+rysunek,图画,"tú huà"
+Ryszard,理沙德,lǐshādé
+ryzyko,风险,"fēng xiǎn"
+ryś,猞猁,shēlì
+ryż,大米,"dà mǐ"
+ryż,米饭,"mǐ fàn"
+rzecz,东西,dōngxi
+rzeka,河,hé
+rzęsa,睫毛,"jié máo"
+Rzeszów,热舒夫,"rè shū fu"
+rzeźba,雕塑,"diāo sù"
+rzeźnia,屠宰场,"tú zǎi chǎng"
+rzeźnik,屠夫,"tú fū"
+rzucać,投,tóu
+rzucić,扔,réng
+rząd,政府,"zhèng fǔ"
+rząd,排,pǎi
+sad,果园,guǒyuán
+sadysta,性虐待狂者,xìngnüèdàikuángzhě
+saksofon,萨克斯管,sākèsīguǎn
+"sala sportowa",运动室,"yùn dòng shì"
+salon,休闲室,"xiū xián shì"
+salowa,护士长,hùshizhăng
+sam,自己,"zì jǐ"
+samobójca,自杀者,"zì shā zhě"
+samobójstwo,自杀,"zì shā"
+samochód,汽车,qìchē
+samolot,飞机,fēijī
+samotność,孤独,"gū dú"
+samotny,孤独,gūdú
+samotny,孤单,gūdān
+samotny,寂寞,jìmò
+samuraj,武士,"wǔ shì"
+sandał,凉鞋,liángxié
+Saper,踩地雷,"cǎi dì léi"
+saper,工兵,"gōng bīng"
+saper,挖地雷的兵,"wā dì léi de bīng"
+sarna,鹿,lù
+Saturn,土星,"tǔ xīng"
+satysfakcja,满意,"mǎn yì"
+sałata,莴苣,"wō jù"
+sałatka,色拉,"sè lā"
+schody,楼梯,lóutī
+schron,庇护所,"bì hù suǒ"
+schronisko,招待所,"zhāo dài suǒ"
+Sebastian,塞巴斯蒂安,sàibāsīdìān
+sekret,秘密,mìmì
+sekretariat,秘书处,"mì shū chù"
+sekretarka,秘书,mìshū
+seler,芹菜,qíncài
+sen,梦,mèng
+sens,道理,"dào li"
+sęp,秃鹫,tūjiù
+ser,乳酪,rǔlào
+ser,奶酪,nǎilào
+serce,心,xīn
+serwis,服务,fúwù
+siano,干草,"gān cǎo"
+siatkówka,视网膜,shìwǎngmó
+siatkówka,排球,páiqiú
+siedem,七,qī
+siedzieć,坐,zuò
+siekiera,斧,fǔ
+sierociniec,孤儿院,"gū ér yuàn"
+sierota,孤儿,"gū ér"
+sierpień,八月,bāyuè
+sikora,山雀,shānquè
+silny,强的,qiángde
+siodło,鞍,ān
+siostra,姐妹,"jiě mèi"
+siostra,姐姐,"jiě jie"
+siostra,妹妹,"mèi mei"
+"siostra zakonna",修女,xiūnü
+siwy,灰色,"huī sè"
+siła,力气,lìqi
+skakać,跳,tiào
+skarb,宝物,"bǎo wù"
+skarpetka,袜子,wàzi
+skała,岩,yán
+sklep,商店,shāngdiàn
+skoczyć,跳,tiào
+skok,跳跃,"tiào yuè"
+skomentować,评论,pínglùn
+skóra,皮,pí
+Skorpion,天蝎座,"tiān xié zuò"
+skorpion,蝎子,"xiē zi"
+skorupa,外壳,"wài ké"
+skowronek,云雀,"yún què"
+skracać,缩短,"suō duǎn"
+"skręcać się",蠕动,"rú dòng"
+skromność,谦逊,"qiān xùn"
+skromny,谦虚,"qiān xū"
+skrzat,矮子,"ǎi zi"
+skrzydło,翅膀,"chì bǎng"
+"skrzynka pocztowa",信箱,xìnxiāng
+skrzypce,小提琴,"xiǎo tí qín"
+skrzywiony,扭歪,niŭwài
+skrzywiony,歪斜,"wāi xié"
+skrzyżowanie,十字路口,"shízi lùkǒu"
+"skupiać się",专心,zhuānxīn
+skutek,结果,jiēguǒ
+skwer,场地,chǎngdì
+smacznego,祝你好胃口,"zhù nǐ hǎo wèi kǒu"
+smacznego,请慢用,"qǐng màn yòng"
+smaczny,好吃的,"hǎo chī de"
+smak,味道,"wèi dao"
+smażyć,油炸,"yóu zhà"
+smoczek,橡皮奶头,"xiàng pí nǎi tóu"
+smog,烟雾,"yān wù"
+smok,龙,lóng
+smutek,悲哀,bēiāi
+smutny,悲哀的,"bēi āi de"
+smycz,皮带,"pí dài"
+snajper,狙击兵,"jū jī bīng"
+sobota,星期六,xīngqīliù
+soczewka,透镜,"tòu jìng"
+"soczewka kontaktowa",隐形眼镜,"yǐn xíng yǎn jìng"
+sojusz,结盟,"jié méng"
+sok,果汁,guǒzhī
+sokół,隼,sǔn
+sól,盐,yán
+solidarność,团结,"tuán jié"
+Solidarność,团结工会,"tuán jié gōng huì"
+Sonia,索妮娅,suǒníyà
+sos,酱汁,"jiàng zhī"
+"sos sojowy",酱油,"jiàng yóu"
+sosna,松树,sōngshù
+sowa,猫头鹰,máotóuyīng
+spacer,散步,"sàn bù"
+spacerować,散步,"sàn bù"
+spać,睡,shuì
+spędzać,花费,huāfèi
+spędzić,花费,huāfèi
+spodnie,裤子,kùzi
+spokój,宁静,"níng jìng"
+spokojny,平静的,"píng jìng de"
+sport,运动,yùndòng
+sport,体育,tǐyù
+sportowiec,运动员,"yùn dòng yuán"
+sporysz,麦角,"mài jiǎo"
+"sposób użycia",用法,yòngfă
+spotkanie,见面,jiànmiàn
+spotkać,见,jiàn
+"spotkać się",见面,"jiàn miàn"
+"spotkać się",会见,"huì jiàn"
+"spotykać się",见面,jiànmiàn
+"spotykać się",会见,huìjiàn
+sprawdzać,检查,"jiǎn chá"
+sprawdzić,检查,"jiǎn chá"
+sprawiedliwość,司法,"sī fǎ"
+sprawiedliwy,公正的,"gōng zhèng de"
+sprężarka,压缩机,"yā suō jī"
+sprężyna,弹簧,"tán huáng"
+sprzeczność,矛盾,máodùn
+sprzedawca,售货者,"shòu huò zhe"
+sprzedać,卖,mài
+sprzęgło,离合器,"lí hé qì"
+sprzątać,打扫,"dǎ sǎo"
+srebro,银,yín
+sroka,喜鹊,"xǐ que"
+ssak,哺乳动物,"bǔ rǔ dòng wù"
+stadion,体育场,"tǐ yù chǎng"
+stal,钢,gāng
+Stanisław,斯坦尼斯瓦夫,"sī tǎn ní sī wǎ fū"
+Stanisława,斯坦尼斯瓦娃,"sī tǎn ní sī wǎ wá"
+stanowczy,果断,"guǒ duàn"
+"Stany Zjednoczone",美国,měiguó
+starożytny,古代的,"gǔ dài de"
+start,起点,"qǐ diǎn"
+stary,旧的,"jiù de"
+stary,老的,"lǎo de"
+statek,船,chuán
+"statek kosmiczny",飞船,fēichuán
+status,地位,"dì wèi"
+statystyka,统计,tǒngjì
+statyw,三脚架,"sān jiǎo jià"
+stać,站,zhàn
+"stać w kolejce",排队,"pái duì"
+Stefan,史蒂文,shǐdìwén
+sto,百,bǎi
+"sto milionów",亿,yì
+stolica,首都,shǒudū
+stonoga,蜈蚣,"wú gōng"
+stopa,脚,jiǎo
+stosować,使用,"shǐ yòng"
+stół,桌子,"zhuō zi"
+stożek,圆锥体,"yuán zhuī tǐ"
+strach,害怕,"hài pà"
+"strach na wróble",稻草人,"dào cǎo rén"
+strategia,战略,"zhàn luè"
+"straż pożarna",消防队,"xiāo fáng duì"
+strażak,消防队员,"xiāo fáng duì yuán"
+strażnik,看守,"kān shǒu"
+strefa,地域,"dì yù"
+stres,压力,"yā lì"
+strona,页,yè
+strona,侧,cè
+stróż,看门人,kānménrén
+struś,鸵鸟,tuóniǎo
+strych,阁楼,"gé lóu"
+strzała,箭,jiàn
+strzelać,射,shè
+Strzelec,射手座,shèshǒuzuò
+"strzelec wyborowy",狙击兵,"jū jī bīng"
+strzykawka,注射器,"zhù shè qì"
+student,学生,"xué sheng"
+studio,画室,"huà shì"
+"studzienka ściekowa",下水道,xiàshuǐdào
+styczeń,一月,yīyuè
+styl,风格,"fēng gé"
+suchy,干的,gānde
+Sudan,苏丹,"sū dān"
+sufit,天花板,tiānhuābǎn
+sukces,成功,chénggōng
+sukces,杰出,jiéchū
+sukienka,裙子,qúnzi
+suma,总数,zŏngshù
+super,超级的,"chāo jí de"
+suseł,北美地鼠,"běi měi dì shǔ"
+swędzenie,痒,yăng
+sweter,毛衣,máoyī
+sygnalizator,红绿灯,hónglǜdēng
+symbol,符号,fúhào
+symetria,对称,"duì chèn"
+syn,儿子,érzi
+syn,儿,ér
+sypialnia,卧室,"wò shì"
+syrena,美人鱼,"měi rén yú"
+system,系统,"xì tǒng"
+szabla,军刀,"jūn dāo"
+szachy,国际象棋,"guójì xiàngqí"
+szacunek,尊敬,"zūn jìng"
+szafa,衣柜,"yī guì"
+szafka,橱柜,"chú guì"
+szakal,狐狼,"hú láng"
+szaleństwo,疯狂,"fēng kuáng"
+szalik,围巾,"wéi jīn"
+szalony,疯,fēng
+szaman,僧人,"sēng rén"
+szampan,香槟,xiāngbīn
+szampon,洗发精,"xǐ fā jīng"
+Szanghaj,上海,"shàng hǎi"
+szansa,机会,jīhuì
+szary,灰色,"huī sè"
+szatan,魔鬼,móguǐ
+szatan,撒旦,sādán
+szatnia,衣帽间,yīmàojiān
+szczęka,上颚,"shàng è"
+szczepionka,疫苗,"yì miáo"
+szczerość,诚实,"chéng shí"
+szczery,真诚,"zhēn chéng"
+szczęście,幸福,"xìng fú"
+szczęście,运气,"yùn qì"
+szczęśliwy,高兴,gāoxìng
+"szczoteczka do zębów",牙刷,"yá shuā"
+szczupły,苗条的,miáotiáode
+szczur,鼠,shǔ
+szczypiorek,虾夷葱,"xiā yí cōng"
+szczyt,顶,dǐng
+szef,老板,lǎobǎn
+szept,耳语,"ěr yǔ"
+szeptać,耳语,"ěr yǔ"
+szeroki,宽阔的,kuānkuòde
+szerokość,宽度,"kuān dù"
+szerszeń,大黄蜂,"dà huáng fēng"
+szewc,鞋匠,xiéjiàng
+sześć,六,lìu
+szkarlatyna,猩红热,xīnghóngrè
+szkielet,骷髅,"kū lóu"
+szkielet,骨架,"gǔ jià"
+szklanka,杯子,"bēi zi"
+szkoda,遗憾,yíhàn
+szkoła,学校,"xué xiào"
+"szkoła podstawowa",小学,"xiǎo xué"
+szkło,玻璃,"bō li"
+szlachcic,贵族,"guì zú"
+szlachta,贵族,"guì zú"
+szmaragd,绿宝石,"lǜ bǎo shí"
+szminka,口红,"kǒu hóng"
+sznur,绳,shéng
+sznurek,粗绳,cūshéng
+sznurowadło,鞋带,"xié dài"
+szop,浣熊,"huàn xióng"
+szorstki,粗糙的,cūcāode
+szpada,重剑,"chóng jiàn"
+szpinak,菠菜,bōcài
+szpital,医院,yīyuàn
+szpon,爪,zhǎo
+szpon,爪,zhuǎ
+sztuka,艺术,"yì shù"
+"sztuka walki",武术,"wǔ shù"
+sztylet,短剑,"duǎn jiàn"
+szukać,找,zhǎo
+Szwajcaria,瑞士,"ruì shì"
+szybki,快的,kuàide
+szybkość,速度,"sù dù"
+szybujący,凶猛,xiōngměng
+szyja,经,jǐng
+Szymon,西蒙,xīméng
+szynka,火腿,huǒtuǐ
+szynka,腊肉,làròu
+słaby,弱的,ruòde
+sława,名声,"míng shēng"
+słodki,甜的,"tián de"
+słoń,星,dàxiàng
+słońce,太阳,"tài yáng"
+słonecznik,向日葵,xiàngrìkuí
+słony,咸的,"xián de"
+Słowacja,斯洛伐克,"sī luò fá kè"
+Słowianie,斯拉夫人,sīlāfūrén
+słowik,夜莺,yèyīng
+słownik,词典,cídiǎn
+słowo,词,cí
+słuchać,听,tīng
+sługa,仆人,"pú rén"
+służący,仆人,púrén
+sąsiad,邻居,"lín jū"
+ta,这,zhè
+tablica,黑板,hēibǎn
+Tadeusz,塔杜施,"tǎ dù shī"
+taekwondo,拳道,"quán dào"
+tajemnica,秘密,mìmì
+tajemniczy,神秘的,"shén mì de"
+tajfun,台风,"tái fēng"
+Tajlandia,泰国,"tài guó"
+tak,是,shì
+tak,对,duì
+taksówka,出租汽车,"chū zū qì chē"
+talerz,盘子,"pán zi"
+talizman,护身符,"hù shēn fú"
+tam,那里,nàlǐ
+tam,那儿,nàr
+tama,水坝,"shuǐ bà"
+tancerz,跳舞者,"tiào wǔ zhě"
+tańczyć,跳舞,tiàowǔ
+tani,便宜的,piányìde
+taniec,舞蹈,wǔdǎo
+taoizm,道教,dàojiào
+tapeta,糊壁纸,húbìzhǐ
+tarcza,盾,dùn
+targ,市集,"shì jí"
+tata,爸爸,bàba
+tato,爸爸,bàba
+tatuaż,纹身,wénshēn
+taxi,出租汽车,"chū zū qì chē"
+teatr,剧院,jùyuàn
+teatr,剧场,jùchǎng
+technika,工艺,"gōng yì"
+technologia,技术,"jì shù"
+tęcza,彩虹,"cǎi hóng"
+Teksas,得克萨斯,dékèsāsī
+tekst,本文,"běn wén"
+tekstylia,纺织品,"fǎng zhī pǐn"
+telefon,电话,diànhuà
+"telefon komórkowy",手机,shǒujī
+teleskop,望远镜,wàngyuǎnjìng
+telewizja,电视,diànshì
+telewizor,电视机,diànshìjī
+temat,题目,"tí mù"
+ten,这个,zhè
+tenis,网球,"wǎng qiú"
+"tenis stołowy",乒乓球,"pīng pāng qiú"
+"tenis ziemny",网球,"wǎng qiú"
+Tennessee,田纳西,tiánnàxī
+tępy,钝的,dùnde
+teraz,现在,xiànzài
+teraźniejszość,现在,"xiàn zài"
+termit,白蚁,báiyĭ
+terroryzm,恐怖主义,"kǒng bù zhǔ yì"
+tęsknić,思念,"sī niàn"
+tęsknić,想念,"xiǎng niàn"
+tęsknić,渴望,"kě wàng"
+tęsknić,思念,"sī niàn"
+test,测试,"cè shì"
+tiul,薄纱,báoshā
+tlen,氧,yǎng
+TNT,"黄色 炸药","huángsè zhàyào"
+to,这,zhè
+toaleta,盥洗室,guànxǐshì
+tofu,豆腐,"dòu fu"
+tolerancja,宽容,"kuān róng"
+tom,册,cè
+Tomasz,托马斯,tuōmǎsī
+topór,斧,fǔ
+torba,包,bāo
+torbacz,有袋,"yǒu dài"
+torebka,手提包,"shǒu tí bāo"
+tornado,龙卷风,"lóng juǎn fēng"
+towar,商品,"shāng pǐn"
+Toyota,丰田汽车,"fēng tián qì chē"
+tradycja,传统,"chuán tǒng"
+tragedia,悲剧,"bēi jù"
+traktor,拖拉机,"tuō lā jī"
+trampolina,蹦床,"bèng chuáng"
+tramwaj,电车,diànchē
+transport,货运,huòyùn
+trawa,草,cǎo
+trawnik,草地,cǎodì
+trener,教练,jiàoliàn
+trening,训练,"xùn liàn"
+trenować,训练,"xùn liàn"
+Triada,三元组,"sān yuán zǔ"
+trochę,一点儿,yìdiǎnr
+trojan,特洛伊木马,"tè luò yī mù mǎ"
+trójkąt,三角形,"sān jiǎo xíng"
+trotyl,"黄色 炸药","huángsè zhàyào"
+trucizna,毒药,"dú yào"
+trudny,难,nán
+truskawka,草莓,cǎoméi
+truć,折磨,zhémó
+trzy,三,sān
+tulipan,郁金香,yùjīnxiāng
+tulić,紧抱,"jǐn bào"
+tunel,隧道,suìdào
+Turcja,土耳其,túěrqí
+turysta,游客,yóukè
+turystyka,观光事业,"guān guāng shì yè"
+tutaj,这里,"zhè lǐ"
+tutaj,这儿,zhèr
+twardy,硬的,yìngde
+twarz,脸,liǎn
+twierdza,要塞,"yào sài"
+twój,你的,nǐde
+ty,你,nǐ
+Tybet,西藏,"xī zàng"
+tydzień,星期,xīngqī
+tygrys,虎,hǔ
+tygrys,老虎,"lào hǔ"
+tylko,只,zhǐ
+tylko,仅仅,jǐnjǐn
+tylko,仅,jǐn
+tynk,灰泥,"huī nì"
+tyran,暴君,"bào jūn"
+tysiąc,千,qiān
+tłumacz,翻译者,"fān yì zhě"
+tłumaczyć,翻译,fānyì
+tłumaczyć,解释,jiěshì
+ubikacja,厕所,cèsuǒ
+ubranie,衣服,"yī fu"
+ucho,耳朵,ěrduo
+uczciwość,诚实,"chéng shí"
+uczciwy,诚实,chéngshí
+uczelnia,学院,"xué yuàn"
+uczeń,学生,xuésheng
+uczeń,男学生,nánxuésheng
+uczennica,女学生,nǚxuésheng
+uczony,学者,"xué zhě"
+uczucie,感觉,gǎnjué
+uczyć,教,jiāo
+"uczyć się",学习,"xué xí"
+uderzenie,打击,"dǎ jī"
+uderzyć,打,dǎ
+ufać,信任,xìnrèn
+Ukraina,乌克兰,wūkèlán
+ukryty,隐藏的,"yǐn cáng de"
+układanka,缕花锯,lǚhuāju
+Ula,乌拉,ūlā
+ulica,街道,"jiē dào"
+ulica,街,jiē
+ulica,路,lù
+umiejętność,能力,"néng lì"
+umierać,死,sì
+umieć,会,huì
+umowa,同意,"tóng yì"
+umrzeć,死,sǐ
+umysł,心,xīn
+unikać,避,bì
+uniwersytet,大学,dáxué
+uparty,顽固的,"wán gù de"
+upał,热,rè
+upominek,礼物,lǐwù
+Uran,天王星,"tiān wáng xīng"
+urlop,假期,"jià qī"
+uroda,美,měi
+urodziny,生日,shēngrì
+urodzić,生孩子,"shēng hái zi"
+Urszula,乌尔舒拉,wūěrshūlā
+urzędnik,官员,"guān yuán"
+USA,美国,"měi guó"
+usta,嘴,zuǐ
+Utah,犹他,yóutā
+uwaga,注意,"zhù yì"
+uwaga,备注,"bèi zhù"
+uwaga,小心,"xiǎo xīn"
+uwaga,注意,"zhù yì"
+uwielbiać,礼拜,lĭbài
+uwierzyć,相信,"xiāng xìn"
+uścisk,紧握,"jǐn wò"
+uśmiech,微笑,wēixiào
+używać,用,yòng
+w,在,zài
+"w oddali",那边的,"nàbiān de"
+wachlarz,扇子,shànzi
+Waga,天秤座,tiānchèngzuò
+wakacje,假期,jiàqī
+walczyć,战斗,"zhàn dòu"
+waleczność,英勇,"yīng yǒng"
+waleczny,好战的,"hào zhàn de"
+Walentynki,情人节,"qíng rén jié"
+walizka,手提箱,"shǒu tí xiāng"
+walka,战斗,zhàndòu
+waluta,货币,huòbì
+wampir,吸血鬼,"xī xuè guǐ"
+wanilia,香草,"xiāng cǎo"
+wanna,浴缸,"yù gāng"
+wapń,钙,gài
+warga,唇,chún
+wariat,疯子,"fēng zi"
+warkocz,辫子,"biàn zi"
+Warszawa,华沙,huáshā
+wart,值得,"zhí dé"
+Waszyngton,华盛顿,huáshèngdùn
+ważka,蜻蜓,qīngtíng
+ważny,重要的,"zhòng yào de"
+ważny,有效的,"yǒu xiào de"
+WC,盥洗室,guànxǐshì
+WC,厕所,cèsuǒ
+wciąż,仍然,"réng rán"
+wczoraj,昨天,zuótiān
+wdowa,寡妇,"guǎ fu"
+wdowiec,鳏夫,"guān fū"
+wędkarstwo,钓鱼,"diào yú"
+wędrować,漫游,"màn yóu"
+wędrować,流浪,"liú làng"
+wędrowiec,流浪者,"liú làng zhe"
+weekend,周末,"zhōu mò"
+węgiel,煤,méi
+wejście,入口,rùkǒu
+wentylator,电风扇,"diàn fēng shàn"
+Wenus,金星,"jīn xīng"
+weranda,游廊,"yóu láng"
+Weronika,维罗妮卡,wéiluóníkǎ
+wesele,婚礼,"hūn lǐ"
+wesoły,高兴的,"gāo xìng de"
+wesz,虱,shī
+weterynarz,兽医,"shòu yī"
+wełna,羊毛,yángmáo
+wiadomość,新闻,"xīn wén"
+wiadro,水桶,shuǐtǒng
+wiara,信心,xìnxīn
+wiatr,风,fēng
+wiatrak,风车,"fēng chē"
+widelec,叉,chǎ
+widokówka,明信片,"míng xìn piàn"
+widzieć,看见,"kàn jiàn"
+widły,干草叉,"gān cǎo cha"
+więc,所以,"suǒ yǐ"
+wieczność,永恒,yǒnghéng
+wieczny,永恒,"yǒng héng"
+wieczór,晚上,wǎnshang
+wiedza,了解,liǎojiě
+wiedza,智慧,zhìhuì
+wiedzieć,知道,zhīdào
+wiejski,农村的,"nóng cūn de"
+wiek,世纪,"shì jì"
+wiek,年龄,"nián líng"
+wielbłąd,骆驼,luòtuo
+"Wielka Brytania",英国,yīngguó
+Wielkanoc,复活节,fùhuójié
+wielki,伟大,wěidà
+"Wielki Mur",长城,"cháng chéng"
+wieloryb,鲸鱼,jīngyú
+wieniec,花圈,huāquān
+wieprzowina,猪肉,"zhū ròu"
+wierność,忠实,"zhōng shí"
+wierny,忠实,zhōngshí
+wiersz,诗,shī
+wiertarka,钻机,zuànjī
+wierzba,柳树,liŭshù
+wierzyć,相信,"xiāng xìn"
+Wietnam,越南,"yuè nán"
+wiewiórka,松鼠,"sōng shǔ"
+więzienie,监狱,jiānyù
+wieś,农村,nóngcūn
+wieś,乡村,xiāngcūn
+wieśniak,农民,nóngmín
+"więźba dachowa",梁,liáng
+Wigilia,圣诞节前夕,shèngdànjiéqiánxī
+wigilia,前夕,qiánxī
+Wiktor,维克多,wéikèduō
+Wiktoria,维多利亚,"wéi duō lì yà"
+wilk,狼,láng
+winda,电梯,diàntī
+wino,葡萄酒,pútáojiǔ
+winogrono,葡萄,pútao
+wiolonczela,大提琴,"dà tí qín"
+wioska,村庄,"cūn zhuāng"
+wiosna,春天,chūntiān
+wiosło,桨,jiǎng
+wir,回旋,"huí xuán"
+wirnik,转子,"zhuàn zi"
+wirus,病毒,bìngdú
+Wisła,维斯瓦河,"wéi sī wǎ hé"
+witalność,生命力,shēngmìnglì
+witamina,维生素,"wéi shēng sù"
+witać,欢迎,huānyíng
+"witryna sklepowa",橱窗,chúchuāng
+wiwern,双足飞龙,"shuāng zú fēi lóng"
+wiśnia,樱桃,yīngtao
+wkręt,螺钉,luódīng
+wnuczka,孙女,sūnnǚ
+wnuk,孙子,sūnzǐ
+woda,水,shuǐ
+wódka,伏特加,fútèjiā
+Wodnik,水瓶座,shuípíngzuò
+wodospad,瀑布,"pù bù"
+wojna,战争,zhànzhēng
+wojownik,战士,zhànshì
+wojsko,陆军,"lù jūn"
+Wojtek,沃伊泰克,wòyītàike
+wolność,自由,zìyóu
+wolny,慢,màn
+worek,袋子,"dài zi"
+wóz,马车,"mǎ chē"
+wół,公牛,"gōng niú"
+wołowina,牛肉,"niú ròu"
+wpłata,贡献,"gòng xiàn"
+wrażliwy,敏感,mǐngǎn
+wręczać,交给,"jiāo gěi"
+wróbel,麻雀,"má què"
+Wrocław,乌罗茨瓦夫,"wū luó cī wǎ fū"
+wróg,敌人,dírén
+wrona,乌鸦,"wū yā"
+wrota,大门,"dà mén"
+wrzesień,九月,jiǔyuè
+wrzeszczeć,叫喊,"jiào hăn"
+wrzeszczeć,叫嚷,"jiào răng"
+wrzeć,沸腾,fèiténg
+wschód,东,dōng
+wschód,日出,"rì chū"
+"wschód słońca",日出,"rì chū"
+wschodni,东边,dōngbiān
+wschodni,东方,dōngfāng
+wschodni,东部,dōngbù
+wspaniałomyślność,慷慨,"kāng kǎi"
+wspaniały,壮丽的,"zhuàng lì de"
+wspomnienie,回想,"huí xiǎng"
+współsprawca,帮凶,"bāng xiōng"
+wstawać,起来,"qǐ lái"
+wszechświat,宇宙,yǔzhòu
+wszystko,每件事,"měi jiàn shì"
+wtorek,星期二,xīngqīèr
+wujek,叔叔,shūshu
+wujek,叔叔,shūshu
+wujek,伯伯,bóbo
+wujek,舅舅,jiùjiu
+wujek,伯伯,bóbo
+wulkan,火山,"huǒ shān"
+wy,你们,nǐmen
+wybory,选举,xuǎnjǔ
+wycieczka,远足,"yuǎn zú"
+wydra,水獭,"shǔi tǎ"
+wygrać,胜利,shènglì
+wygrać,赢,yíng
+wyjście,出口,chūkǒu
+wyjątkowy,例外的,lìwàide
+wykręcać,拧,níng
+wykład,讲课,"jiǎng kè"
+wynalazca,发明家,"fā míng jiā"
+wynalazek,发明,"fā míng"
+wyobraźnia,想象,"xiǎng xiàng"
+Wyoming,怀俄明,huái`émíng
+wypadek,事故,shìgù
+wyprzedaż,拍卖,"pāi mài"
+wyraz,词,cí
+"wyrostek robaczkowy",盲肠,"máng cháng"
+"wyrostek robaczkowy",阑尾,"lán wěi"
+wyrzucać,扔掉,"rēng diào"
+wyrzucić,扔掉,"rēng diào"
+wysiłek,努力,"nǔ lì"
+wysoki,高的,gāode
+wyspa,岛,dǎo
+wysyłać,送给,"sòng gěi"
+wysłać,送给,"sòng gěi"
+wytrawny,干的,"gān de"
+wytrzymać,忍受,"rěn shòu"
+wyzwolenie,解放,"jiě fàng"
+wyzwolić,解放,"jiě fàng"
+wyć,叫喊,"jiào hăn"
+wyć,叫嚷,"jiào răng"
+wyżymaczka,绞衣机,jiăoyījī
+wziąć,拿,ná
+wścieklizna,狂犬病,"kuáng quǎn bìng"
+wściekły,狂怒的,"kuáng nù de"
+władca,统治者,"tǒng zhì zhě"
+władza,权力,"quán lì"
+Włochy,意大利,yìdàlì
+włóczęga,流浪汉,"liú làng hàn"
+włócznia,矛,máo
+włos,毛,máo
+włos,头发,tóufa
+włosy,头发,tóufa
+wąski,狭窄的,xiázhǎide
+wątpienie,怀疑,huáiyí
+wątroba,肝脏,gānzàng
+wątroba,肝,gān
+wąż,蛇,shé
+z,跟,gēn
+z,从,cóng
+zabawa,游玩,"yóu wán"
+zabawka,玩具,"wán jù"
+zabijać,杀,shā
+zabić,杀,shā
+zachęcać,鼓励,"gǔ lì"
+zachód,西,xī
+zachód,日落,"rì luò"
+"zachód słońca",日落,"rì luò"
+zachodni,西边,xībiān
+zachodni,西部,xībù
+zachodni,西方,xīfāng
+zaczepiać,搭讪,"dā shàn"
+zagadka,谜,mí
+zajęty,忙,máng
+zając,兔子,"tù zi"
+zając,野兔,"yě tù"
+zakochany,相爱,"xiàng ài"
+Zakopane,扎科帕内,"zā kē pà nèi"
+zakręt,弯曲,"wān qū"
+zakłopotany,尴尬,"gān gà"
+zaliczka,现金垫款,"xiàn jīn diàn kuǎn"
+zamarznięty,冰冻的,"bīng dòng de"
+zamek,城堡,chéngbǎo
+zamek,锁,suǒ
+"zamek błyskawiczny",尖啸声,jiānxiàoshēng
+zamiana,更换,"gēng huàn"
+zamienić,换,huàn
+zamiłowanie,兴趣,"xìng qù"
+zamknięty,近,jìn
+zamówienie,定单,dìngdān
+zamrażać,冻结,"dòng jié"
+zamykać,关,guān
+zamyślony,沉思,"chén sī"
+zapalniczka,打火机,"dǎ huǒ jī"
+zapasy,摔跤,shuāijiāo
+zapał,兴趣,"xìng qù"
+zapał,乐趣,"lè qù"
+zapałka,火柴,"huǒ chái"
+zapomnieć,忘记,wàngjì
+zapora,水坝,"shuǐ bà"
+zapora,鹿柴,"lù chái"
+zapraszać,邀请,"yāo qǐng"
+zaprosić,邀请,yāoqǐng
+zaprosić,邀请,"yāo qǐng"
+zaproszenie,邀请,"yāo qǐng"
+zapłacić,支付,"zhī fù"
+zaraz,立刻,lìkè
+zaraz,马上,mǎshàng
+zaraz,立即,lìjí
+zasada,碱,jiǎn
+zasadzka,埋伏,"mái fu"
+zaskoczenie,震动,"zhèn dòng"
+zaskoczyć,使惊奇,"shǐ jīng qí"
+"zasmucać się",悲哀,bēiāi
+zastępca,代替者,"dài tì zhě"
+zastrzyk,注射,"zhù shè"
+zatrudniony,雇员,"gù yuán"
+zaufanie,信任,xìnrèn
+zaufanie,信赖,"xìn lài"
+zawód,职业,"zhí yè"
+zawór,阀门,"fá mén"
+zawstydzony,窘迫,"jiǒng pò"
+zawsze,总是,zǒngshì
+zazdrosny,嫉妒的,jídùde
+zazdrość,妒忌,dùjì
+zaćmienie,日食,"rì shí"
+"zaćmienie księżyca",月食,"yué shí"
+"zaćmienie słońca",日食,"rì shí"
+załamany,沮丧的,"jǔ sàng de"
+załoga,全体船员,"quán tǐ chuán yuán"
+zbierać,聚集,"jù jí"
+zbrodnia,重罪,"zhòng zuì"
+zbroja,甲胄,"jiǎ zhòu"
+zbyt,太,tài
+zdarzenie,事件,"shì jiàn"
+zdenerwowany,急躁的,jízàode
+zdjęcie,照片,zhàopiàn
+zdolny,能干,"néng gàn"
+zdrada,背叛,"bèi pàn"
+zdrowie,健康,jiànkāng
+zdrowy,健康的,jiànkāngde
+zdyszany,气喘的,qìchuǎnde
+zdziwiony,惊奇的,jīngqíde
+zdziwiony,惊讶的,jīngyàde
+zebra,斑马线,bānmǎxiàn
+zebranie,会议,huìyì
+zebranie,开会,kāihuì
+zegar,时钟,"shí zhōng"
+zegarek,手表,"shóu biǎo"
+zemsta,报仇,"bào chóu"
+zepsuty,坏了的,huàilede
+zero,零,líng
+zespół,音乐队,yīnyuèduì
+zeszyt,本子,běnzi
+zezowaty,斜眼的,xiéyǎnde
+"zgadzać się",同意,tóngyì
+zgoda,同意,"tóng yì"
+zgrabny,匀称的,yúnchènde
+zgrabny,和谐的,héxiéde
+zgrabny,灵巧的,língqiǎode
+zielony,绿色,lǜsè
+ziemia,土,tǔ
+ziemia,地,dì
+Ziemia,地球,"dì qiú"
+ziemniak,土豆,tǔdòu
+ziewać,打呵欠,"dǎ hā qian"
+zięć,"女婿 ","nǚ xu"
+zima,冬天,dōngtiān
+zimny,冷的,lěngde
+zlew,水槽,"shǔi cáo"
+zmarnować,浪费,làngfèi
+zmarszczka,皱纹,zhòuwén
+zmartwiony,忧愁的,yōuchóude
+zmarznięty,结冰的,"jié bīng de"
+zmęczony,累,lèi
+zmęczony,劳累,láolèi
+zmęczony,疲劳的,píláode
+zmiana,变化,"biàn huà"
+"zmniejszyć się",减少,"jiǎn shǎo"
+znaczek,邮票,"yóu piào"
+"znaczek pocztowy",邮票,"yóu piào"
+znajoma,熟人,shúrén
+znajomości,关系,"guān xì"
+znajomy,熟人,shúrén
+znajomy,熟悉,shúxí
+znajomy,认识的,rènshíde
+znak,记号,jìhào
+znakomity,优秀的,yǒuxiùde
+znaleźć,找到,"zhǎo dào"
+znany,有名的,yǒumíngde
+znać,认识,"rèn shi"
+znieczulenie,麻醉,"má zuì"
+znów,再,zài
+znowu,再,zài
+znudzony,寂寞的,jìmòde
+zobaczyć,看见,"kàn jiàn"
+"zorza polarna",极光,"jí guāng"
+zostawić,离开,"lí kāi"
+zrobić,做,zuò
+zszywacz,订书机,dìngshūjī
+zupa,汤,tāng
+Zuzanna,苏珊,sūshān
+zwierciadło,镜子,"jìng zi"
+zwierzę,动物,"dòng wù"
+zwój,卷轴,"juàn zhóu"
+zwycięstwo,胜利,shènglì
+zwycięzca,获胜者,"huò shèng zhe"
+zygzak,之字形,zhīzìxíng
+zło,邪恶,xiéè
+złodziej,小偷,"xiǎo tōu"
+złom,废金属,"fèi jīn shǔ"
+złoto,金,jīn
+złoty,金色,"jīn sè"
+złoty,兹罗提,"zī luō tí"
+złośliwy,凶狠的,xiōnghěnde
+złośliwy,恶毒的,èdúde
+złośliwy,不怀好意的,"bù huái hǎo yì de"
+złość,忿怒,"fèn nù"
+zły,恶,è
+ząb,牙齿,"yá chǐ"
+ćma,蛾子,"é zi"
+ćwiczyć,练习,"liàn xí"
+Śląsk,西里西亚,"xī lǐ xī yà"
+"Święta Bożego Narodzenia",圣诞节,shèngdànjié
+"Święty Mikołaj",圣诞老人,shèngdànlǎorén
+ściana,墙,qiáng
+ścisły,精密,"jīng mì"
+ściągać,下载,"xià zài"
+ślad,脚印,"jiǎo yìn"
+śliczny,可爱,"kě ài"
+ślimak,蜗牛,wōniú
+śliwa,梅树,méishù
+śliwka,李子,lǐzi
+ślub,婚礼,"hūn lǐ"
+"śmiać się",笑,xiào
+śmiech,笑,xiào
+śmieci,垃圾,"lā jī"
+śmierdzący,臊,sāo
+śmierć,死亡,"sǐ wáng"
+śmierć,死,sǐ
+śmieszny,滑稽的,"huá jī de"
+śmietana,奶油,nǎiyóu
+śmietnik,垃圾桶,"lā jī tǒng"
+śmieć,垃圾,"lā jī"
+śmigłowiec,直升机,"zhí shēng jī"
+śniadanie,早饭,"zǎo fàn"
+śnieg,雪,xuě
+śnić,做梦,"zuò mèng"
+śpiewak,歌手,"gē shǒu"
+śpiewać,唱歌,"chàng gē"
+śpiewać,唱,chàng
+śpioch,贪睡者,"tān shuì zhe"
+średnica,直径,"zhí jìng"
+środa,星期三,xīngqīsān
+środek,中间,"zhōng jiān"
+śruba,螺丝,luósī
+śrubokręt,螺丝起子,"luó sī qǐ zi"
+świadectwo,证书,"zhèng shū"
+świat,世界,"shì jiè"
+światynia,寺庙,"sì miào"
+światło,灯,dēng
+światło,光,guāng
+światłowód,光导纤维,"guāng dǎo xiān wēi"
+świeca,蜡烛,"là zhú"
+świerk,云杉,yúnshān
+świerszcz,蟋蟀,xīshuài
+świetlny,光亮的,guāngliàngde
+święto,节日,jiérì
+święty,神圣的,"shén shèng de"
+świeży,新鲜的,xīnxiānde
+świnia,猪,zhū
+świnka,腮腺炎,"sāi xiàn yán"
+"świnka morska",豚鼠,"tún shǔ"
+świt,破晓,"pò xiǎo"
+źródło,来源,"lái yuán"
+Łódź,罗兹,"luō zī"
+Łódź,罗兹,"luó cí"
+Łukasz,乌卡士,"wū kǎ shì"
+łabędź,天鹅,tiāné
+łabądź,天鹅,"tiān é"
+ładny,好看,hǎokàn
+ładny,美丽的,měilìde
+łamać,打破,"dǎ pò"
+łańcuch,连锁,"lián suǒ"
+łańcuch,链,liàn
+łasica,黄鼠狼,"huáng shǔ láng"
+łaska,宽恕,"kuān shù"
+łatwy,容易,róngyì
+ławka,长凳,chángdèng
+łazienka,卫生间,wèishēngjiān
+łódź,船,chuán
+"łódź podwodna",潜水艇,qiǎnshuǐtǐng
+łopatki,肩胛骨,jiānjiăgŭ
+łosoś,鲑鱼,guīyú
+łowca,猎人,"liè rén"
+łoś,麋,mí
+łóżko,床,chuáng
+łuk,弓,gōng
+łysy,秃,tū
+łysy,秃头,tūtóu
+łyżka,勺子,"sháo zi"
+łza,眼泪,"yǎn lèi"
+łączny,联合的,"lián hé de"
+łąka,草地,"cǎo dì"
+żaba,青蛙,qīngwā
+żagiel,帆船,"fān chuán"
+żal,悲伤,bēishāng
+żart,玩笑,wánxiào
+żart,笑话,xiàohuà
+żałosny,可悲,"kě bēi"
+żebro,肋骨,"lèi gǔ"
+żegnać,告别,"gào bié"
+żeńszeń,人参,rénshēn
+żona,妻子,qīzi
+żona,妻,qī
+żona,夫人,fūren
+żona,太太,tàitai
+żona,老婆,lǎopó
+żorżeta,透明纱,tòumíngshā
+żołnierz,士兵,shìbīng
+"żółta chryzantema",黄花儿,huánghuār
+żółtaczka,黄病,huángbìng
+"żółte wino z Shaoxing",黄酒,huángjiǔ
+żółtko,蛋黄,"dàn huáng"
+żółty,黄色,huángsè
+żółw,海龟,hǎiguī
+żółw,乌龟,wūguī
+żółw,河龟,héguī
+żołądek,胃,wèi
+żuraw,鹤,hè
+życie,生活,shēnghuó
+życzenie,希望,"xī wàng"
+życzliwy,好意的,hǎoyìde
+żyrafa,长颈鹿,chángjǐnglù
+żyto,黑麦,"hēi mài"
+żywica,树脂,"shù zhī"
+żyć,活,huó
+żyła,静脉,jìngmài
+żłobek,托儿所,"tuō ér suǒ"
