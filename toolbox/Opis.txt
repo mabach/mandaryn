@@ -1,0 +1,15 @@
+ChineseTelegraphCode
+-----------------------
+Wersja 0.5
+Python 3.x
+
+Umo¿liwia uzyskiwanie kodów telegraficznych znaków i vice versa, podkomponent
+wielu innych programów
+
+order
+------
+Wersja 1.0
+Python 3.x
+
+Na podstawie bazy danych WikiCommons kreuje bazê do u¿ytkowania w programach
+Wszystkie znaki s¹ zamieniane na ich odpowiedniki w kodzie telegraficznym
