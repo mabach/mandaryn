@@ -1,0 +1,15 @@
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\bin\Debug\ChineseReader.exe.config
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\bin\Debug\ChineseReader.exe
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\bin\Debug\ChineseReader.pdb
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader.csprojResolveAssemblyReference.cache
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\MainWindow.baml
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\MainWindow.g.cs
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\App.g.cs
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader_MarkupCompile.cache
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader.g.resources
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader.Properties.Resources.resources
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader.csproj.GenerateResource.Cache
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader.exe
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader.pdb
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\obj\Debug\ChineseReader_Content.g.cs
+c:\users\witold\documents\visual studio 2013\Projects\ChineseReader\ChineseReader\bin\Debug\Data\pinyin.db
