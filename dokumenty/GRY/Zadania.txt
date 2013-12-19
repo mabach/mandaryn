@@ -1,0 +1,10 @@
+Zrobiæ grê labirynt i grê cangije.
+
+LABIRYNT
+Celem jest zrobienie gry pojegaj¹cej na wyjœciu z labirytu. Po drodze mo¿na zbieraæ ró¿ne przedmioty. Przy wyjœciu z labiryntu te przedmioty s¹ wartoœciowane i odpowiadaj¹ liczbie punktów.
+Po otrzymaniu gotowego projektu labirytu dokonamy jego sinizacji tak, ¿eby nagradzaæ znalezione s³owa mocniej ni¿ pojedyñcze hanzi.
+
+CANGIJE TWORZY S£OWA
+Gra polegaj¹ca na dopasowywaniu s³ów. S³owa s¹ brane z osobnej bazy danych danych CSV. Na ten czas mog¹ byæ dowolne. kategorie równie¿ dowolne. Celem jest wprowadzenie jak
+najwiêkszej liczby s³ów do w³aœciwych kube³ków. Po otrzymaniu gotowego projektu gry dokonam sinizacji projektu zmieniaj¹c s³owa na Hanzi.
+
