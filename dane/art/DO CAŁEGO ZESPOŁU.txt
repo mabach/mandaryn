@@ -1,0 +1,6 @@
+﻿Może część z Was to wie, może nie, więc wolę to oficjalnie w projekcie zapisać. ;D
+Podzielę się z Wami teraz "tajemną" wiedzą, którą zdobyłam podczas szkolenia w Microsofcie.
+Chodzi mianowicie o wielkość projektowanego interfejsu.
+
+Aktualnie największa stosowana popularnie rozdzielczość monitorów to 2560×1440. Pod taką też wielkość ja tworzę grafiki. Jednakże to są proporcje 16:9 a wciaż bardzo popularne jest 4:3. Dlatego graficznie program powinien być przystosowany do obu formatów. Rozwiązanie tego "problemu" jest bardzo proste. Wszystkie elementy funkcjonalne powinny się zmieścić na formacie 4:3, jedynie ozdobniki powinny wychodzić poza ten format. Dzięki czemu nie ma obaw, że użytkownik mający ekran 4:3 coś utraci a zarazem ten z 16:9 nie będzie miał sztucznie rozciągniętego ekranu dzięki temu, że projektujemy pod jego format.
+Dla 2560x1400 żeby wyszedł z tego format 4:3 "ucinamy" po bokach po 320px (jak na obrazku "podgląd.jpg, przeze mnie dodanym).
