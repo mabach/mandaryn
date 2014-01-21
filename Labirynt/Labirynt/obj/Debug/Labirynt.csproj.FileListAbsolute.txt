@@ -1,0 +1,13 @@
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\bin\Debug\Labirynt.exe.config
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\bin\Debug\Labirynt.exe
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\bin\Debug\Labirynt.pdb
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\Labirynt.csprojResolveAssemblyReference.cache
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\MainWindow.baml
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\MainWindow.g.cs
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\App.g.cs
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\Labirynt_MarkupCompile.cache
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\Labirynt.g.resources
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\Labirynt.Properties.Resources.resources
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\Labirynt.csproj.GenerateResource.Cache
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\Labirynt.exe
+c:\users\macias\documents\visual studio 2012\Projects\Labirynt\Labirynt\obj\Debug\Labirynt.pdb
